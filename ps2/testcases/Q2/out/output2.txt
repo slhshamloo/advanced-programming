@@ -1,0 +1,67 @@
+register successful
+register successful
+login successful
+username format is invalid
+you must choose another player to start a game
+no user exists with this username
+new game started successfully between xyz and ali
+invalid ship number
+wrong coordination
+invalid direction
+invalid command
+collision with the other ship or mine on the board
+collision with the other ship or mine on the board
+|S1|  |  |  |  |  |  |  |  |  |
+|  |S1|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |  |  |  |  |  |  |  |
+|S2|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S2|S2|  |  |S4|S4|S4|S4|  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|S2|S2|  |  |  |S3|S3|S3|  |
+collision with the other ship or mine on the board
+you must put all ships on the board
+you don't have this type of ship
+turn completed
+|S1|  |  |  |  |  |  |  |  |  |
+|  |S1|  |  |  |  |  |  |  |  |
+|  |  |S3|S3|S3|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|  |  |  |S4|  |  |  |  |  |  |
+|S2|S2|  |S4|  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|S2|S2|  |  |  |S3|S3|S3|  |
+turn completed
+xyz is forfeited
+ali is winner
+invalid command
+buy [product] [number]
+show-amount
+help
+back
+ali
+xyz
+new_game [username]
+scoreboard
+list_users
+shop
+help
+logout
+logout successful
+register successful
+login successful
+ali
+salam
+xyz
+new_game [username]
+scoreboard
+list_users
+shop
+help
+logout
+logout successful
+program ended

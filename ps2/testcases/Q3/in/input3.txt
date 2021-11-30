@@ -1,0 +1,82 @@
+Register Matin Shoja1
+Register matin Shoja1
+Register Shoja Shoja1
+Register shoja Shoja1
+Login Matin Shoja1
+Logout
+Login matin Shoja1
+Create New Calendar shoja
+Logout
+Login matin Shoja
+Login Matin Shoja1
+Logout
+Login matin Shoja1
+Share Calendar 2 Matin
+Share Calendar 3 Matin
+Logout
+Login Matin Shoja1
+Delete Calendar 3
+Share Calendar 2 Shoja
+Share Calendar 4 Shoja
+Logout
+Login Shoja Shoja1
+Logout
+Login Matin Shoja1
+Share Calendar 4 Shoja
+Share Calendar 1 shojaaa
+Share Calendar 4 Shojaaa
+Share Calendar 1 Shoj%
+Share Calendar 2 Shoja%
+Open Calendar 2
+Open Calendar 4
+Open Calendar 5
+Open Calendar 2
+Show Events
+Show Tasks
+Show tasks
+Add Event 
+Add Event sal 2 4 D F
+Add Task sal 20_30 20_45 1 None F
+Add Task sal 20_30 20_45
+Add Event sal 20 1 D F
+Edit Event far kind of repeat W
+Edit Event 4 kind of repeat M
+Edit Task far start time 23_23
+Delete Task salam
+Back
+Open Calendar 1
+Add Event ML% 2021_13_01 2 D F
+Add Event ML 2021_13_01 2 D F
+Add Event ML 2021_01_41 2 D F
+Add Event ML 2021_03_14 2021_13_15 D T
+Add Event ML 2021_03_14 2021_03_15 D T
+link1
+Add Event ML 2021_03_14 2021_03_15 W F
+Add Event AI 2021_03_15 2021_03_17 D F
+Add Task Showe 2021_03_14 20 D F
+Add Task Shower 19_00 20_00 2021_03_14 20 D F
+Show Events
+Show tasks
+Add task ML 23_00 23_30 2021_03_15 100 W T
+Add Task ML 23_00 23_30 2021_03_15 100 W T
+link2
+Delete Event AI
+Add Event AI 2021_03_15 2022_02_29 D T
+Add Event AI 2021_03_15 2022_02_28 D F
+Add Event AP 2021_03_15 None D F
+Add Event DA 2021_03_15 5 W T
+link3
+Add Task AIC 10_30 12_00 2021_03_14 20 W T
+link4
+Add Task AIC2 10_30 12_00 2021_03_14 2021_06_14 W T
+link5
+Add Task DAC 13_30 15_00 2021_03_14 2021_06_15 W T
+link6
+Back
+Share Calendar 1 Shoja
+Show 2021_03_15
+Show 2021_03_16
+Show 2021_03_21
+Show 2021_03_22
+Logout
+Exit

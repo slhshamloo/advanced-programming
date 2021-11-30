@@ -1,0 +1,10 @@
+invalid command
+customer not found
+warehouse having this material already exists
+transaction 1 successfully created
+transaction 2 successfully created
+0
+no waiting transaction with this id was found
+54800
+transaction 1: 80 5000 500 4900
+transaction 2: 100 50000 500 49900

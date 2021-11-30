@@ -1,0 +1,8 @@
+customer with this id already exists
+discount code not found
+transaction 1 successfully created
+transaction 2 successfully created
+0
+50000
+transaction 1: 80 50000 50000 40000
+transaction 2: 80 10000 -1 10000

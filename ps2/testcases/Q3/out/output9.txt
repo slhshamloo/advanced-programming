@@ -1,0 +1,74 @@
+register successful!
+register successful!
+register successful!
+password is wrong!
+login successful!
+calendar created successfully!
+logout successful
+login successful!
+calendar created successfully!
+logout successful
+login successful!
+calendar created successfully!
+logout successful
+login successful!
+calendar opened successfully!
+task added successfully!
+task added successfully!
+task added successfully!
+task added successfully!
+logout successful
+login successful!
+calendar opened successfully!
+task added successfully!
+task added successfully!
+calendar shared!
+logout successful
+login successful!
+calendar opened successfully!
+event added successfully!
+calendar shared!
+logout successful
+login successful!
+Calendar: Matin 1
+calendar enabled successfully!
+calendar enabled successfully!
+events on 2020_02_11:
+tasks on 2020_02_11:
+events on 2021_02_13:
+tasks on 2021_02_13:
+Task: CheckTele F 00_00 00_30
+Task: Sleep F 00_30 00_45
+Task: WakeUp F 08_00 08_15
+Task: MLClass F 09_00 10_30
+events on 2021_02_14:
+Event: Revol F
+tasks on 2021_02_14:
+Task: CheckTele F 00_00 00_30
+Task: Sleep F 00_30 00_45
+Task: WakeUp F 08_00 08_15
+Task: MLClass F 09_00 10_30
+Task: DAClass T 13_30 15_00
+events on 2021_04_14:
+Event: Revol F
+tasks on 2021_04_14:
+Task: CheckTele F 00_00 00_30
+Task: Sleep F 00_30 00_45
+Task: WakeUp F 08_00 08_15
+Task: MLClass F 09_00 10_30
+Task: TACLASS T 16_30 17_30
+events on 2021_06_13:
+tasks on 2021_06_13:
+Task: DAClass T 13_30 15_00
+events on 2021_06_20:
+tasks on 2021_06_20:
+events on 2021_06_16:
+tasks on 2021_06_16:
+events on 2021_06_23:
+tasks on 2021_06_23:
+events on 2022_02_14:
+Event: Revol F
+tasks on 2022_02_14:
+events on 2022_03_14:
+tasks on 2022_03_14:
+logout successful

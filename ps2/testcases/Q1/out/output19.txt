@@ -1,0 +1,12 @@
+invalid command
+not found warehouse(s): a 
+insufficient material(s): a 
+insufficient material(s): a 
+insufficient material(s): a 
+no waiting transaction with this id was found
+sweet not found
+sweet not found
+sweet not found
+no waiting transaction with this id was found
+sweet not found
+0

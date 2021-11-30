@@ -1,0 +1,124 @@
+register ali 123
+register reza 123
+login ali 123
+new_game reza
+put S1 1,1 -v
+put S1 1,2 -v
+put S1 1,3 -v
+put S1 1,4 -v
+put S2 1,5 -h
+put S2 1,6 -h
+put S2 1,7 -h
+put S3 1,8 -h
+put S3 1,9 -h
+put S4 1,10 -h
+show-my-board
+finish-arranging
+put S1 1,1 -v
+put S1 1,2 -v
+put S1 1,3 -v
+put S1 1,4 -v
+put S2 1,5 -h
+put S2 1,6 -h
+put S2 1,7 -h
+put S3 1,8 -h
+put S3 1,9 -h
+put S4 1,10 -h
+show-my-board
+finish-arranging
+bomb 1,1
+bomb 1,2
+bomb 1,3
+bomb 1,4
+bomb 1,5
+bomb 1,6
+bomb 1,7
+bomb 1,8
+bomb 1,9
+bomb 1,10
+show-rival-board
+show-my-board
+bomb 2,5
+bomb 2,6
+bomb 2,7
+bomb 2,8
+bomb 2,9
+bomb 2,10
+bomb 3,8
+bomb 3,9
+bomb 3,10
+bomb 4,10
+shop
+buy antiaircraft 2
+buy mine 1
+show-amount
+back
+logout
+login reza 123
+shop
+buy airplane 3
+show-amount
+back
+scoreboard
+new_game ali
+put S1 1,1 -v
+put S1 1,2 -v
+put S1 1,3 -v
+put S1 1,4 -v
+put S2 1,5 -h
+put S2 1,6 -h
+put S2 1,7 -h
+put S3 1,8 -h
+put S3 1,9 -h
+put S4 1,10 -h
+show-my-board
+finish-arranging
+put S1 1,1 -v
+put S1 1,2 -v
+put S1 1,3 -v
+put S1 1,4 -v
+put S2 1,5 -h
+put S2 1,6 -h
+put S2 1,7 -h
+put S3 1,8 -h
+put S3 1,9 -h
+put S4 1,10 -h
+put-mine 2,2
+put-antiaircraft 1 -h
+put-antiaircraft 1 -h
+show-my-board
+finish-arranging
+put-airplane 1,1 -v
+put-airplane 5,1 -h
+put-airplane 2,2 -v
+show-rival-board
+bomb 1,1
+bomb 1,2
+bomb 1,3
+bomb 1,4
+bomb 1,5
+bomb 1,6
+bomb 1,7
+bomb 1,8
+bomb 1,9
+bomb 1,10
+show-rival-board
+show-my-board
+bomb 2,5
+bomb 2,6
+bomb 2,7
+bomb 2,8
+bomb 2,9
+bomb 2,10
+bomb 3,8
+bomb 3,9
+bomb 3,10
+bomb 2,2
+bomb 4,10
+scoreboard
+shop
+show-amount
+buy mine 60
+back
+logout
+exit

@@ -1,0 +1,41 @@
+you must login to access this feature
+success
+user not found
+incorrect password
+success
+success
+success
+no contact with such username was found
+success
+success
+success
+the port is already set
+success
+success
+success
+success
+127.0.0.1:17097
+success
+could not send message
+success
+success
+4
+bean -> This is it
+bean -> It just works
+bean -> I'm calling thou
+bean -> Are you there?
+1
+success
+success
+success
+success
+success
+success
+This is it
+It just works
+I'm calling thou
+Are you there?
+Okay I'm back
+Are you still there?
+Ight imma head out, bye!
+bean -> 127.0.0.1:17071

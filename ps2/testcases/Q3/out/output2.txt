@@ -1,0 +1,106 @@
+register successful!
+register successful!
+register successful!
+register successful!
+invalid command!
+Matin
+Shoja
+matin
+shoja
+invalid command!
+Matin
+Shoja
+matin
+shoja
+Matin
+Shoja
+matin
+shoja
+invalid command!
+invalid command!
+login successful!
+calendar created successfully!
+invalid command!
+invalid command!
+invalid command!
+calendar created successfully!
+there is no calendar with this ID!
+invalid command!
+calendar opened successfully!
+invalid command!
+calendar opened successfully!
+invalid command!
+calendar enabled successfully!
+calendar disabled successfully!
+calendar enabled successfully!
+calendar enabled successfully!
+there is no calendar with this ID!
+calendar enabled successfully!
+calendar shared!
+do you want to delete this calendar?
+OK!
+logout successful
+login successful!
+calendar created successfully!
+you have no calendar with this ID!
+calendar removed!
+invalid command!
+there is no calendar with this ID!
+do you want to delete this calendar?
+calendar deleted!
+calendar created successfully!
+there is no calendar with this ID!
+do you want to delete this calendar?
+OK!
+logout successful
+login successful!
+calendar created successfully!
+calendar shared!
+logout successful
+login successful!
+you don't have access to delete this calendar!
+there is no calendar with this ID!
+Calendar: matin 4
+Calendar: matin 4
+calendar enabled successfully!
+Calendar: matin 4
+Calendar: Matin 5
+there is no calendar with this ID!
+calendar disabled successfully!
+Calendar: Matin 5
+calendar opened successfully!
+Calendar: Matin 5
+calendar shared!
+calendar title edited!
+logout successful
+login successful!
+Calendar: Matin 1
+calendar enabled successfully!
+there is no calendar with this ID!
+calendar enabled successfully!
+calendar enabled successfully!
+Calendar: Matin 1
+Calendar: Matin 2
+Calendar: Shoja 4
+Calendar: Matin 5
+Calendar: Matin 1
+Calendar: Matin 2
+Calendar: Matin 5
+do you want to delete this calendar?
+calendar deleted!
+Calendar: Matin 2
+Calendar: Shoja 4
+Calendar: Matin 5
+calendar opened successfully!
+Calendar: Matin 2
+Calendar: Shoja 4
+Calendar: Matin 5
+logout successful
+login successful!
+there is no calendar with this ID!
+logout successful
+removed successfully!
+login successful!
+Calendar: Matin 2
+there is no calendar with this ID!
+logout successful

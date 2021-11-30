@@ -1,0 +1,9 @@
+warehouse not found
+not found warehouse(s): b c 
+not found warehouse(s): c 
+sweet not found
+insufficient material(s): a 
+insufficient sweet
+insufficient sweet
+no waiting transaction with this id was found
+0

@@ -1,0 +1,156 @@
+register successful
+register successful
+login successful
+new game started successfully between ali and reza
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S4|S4|S4|S4|  |  |  |  |  |  |
+turn completed
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S4|S4|S4|S4|  |  |  |  |  |  |
+turn completed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship was damaged
+|D1|  |  |  |  |  |  |  |  |  |
+|D1|  |  |  |  |  |  |  |  |  |
+|D1|  |  |  |  |  |  |  |  |  |
+|D1|  |  |  |  |  |  |  |  |  |
+|DX|  |  |  |  |  |  |  |  |  |
+|DX|  |  |  |  |  |  |  |  |  |
+|DX|  |  |  |  |  |  |  |  |  |
+|DX|  |  |  |  |  |  |  |  |  |
+|DX|  |  |  |  |  |  |  |  |  |
+|DX|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S4|S4|S4|S4|  |  |  |  |  |  |
+the rival's ship2 was destroyed
+the rival's ship2 was destroyed
+the rival's ship2 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship3 was destroyed
+the rival's ship3 was destroyed
+the rival's ship was damaged
+the rival's ship4 was destroyed
+ali is winner
+59
+logout successful
+login successful
+20
+ali 3 1 0 0
+reza 0 0 0 1
+new game started successfully between reza and ali
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S4|S4|S4|S4|  |  |  |  |  |  |
+turn completed
+|S1|AA|AA|AA|AA|AA|AA|AA|AA|AA|
+|S1|Mm|AA|AA|AA|AA|AA|AA|AA|AA|
+|S1|AA|AA|AA|AA|AA|AA|AA|AA|AA|
+|S1|  |  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S4|S4|S4|S4|  |  |  |  |  |  |
+turn completed
+the rival's antiaircraft destroyed your airplane
+the rival's antiaircraft destroyed your airplane
+2 pieces of rival's ships was damaged
+|  |  |  |  |  |  |  |  |  |  |
+|  |MX|XX|  |  |  |  |  |  |  |
+|  |XX|XX|  |  |  |  |  |  |  |
+|  |XX|XX|  |  |  |  |  |  |  |
+|  |DX|XX|  |  |  |  |  |  |  |
+|  |DX|XX|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship2 was destroyed
+the rival's ship2 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship was damaged
+|D1|  |  |  |  |  |  |  |  |  |
+|D1|MX|XX|  |  |  |  |  |  |  |
+|D1|XX|XX|  |  |  |  |  |  |  |
+|D1|XX|XX|  |  |  |  |  |  |  |
+|D2|D2|XX|  |  |  |  |  |  |  |
+|D2|D2|XX|  |  |  |  |  |  |  |
+|DX|  |  |  |  |  |  |  |  |  |
+|DX|  |  |  |  |  |  |  |  |  |
+|DX|  |  |  |  |  |  |  |  |  |
+|DX|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|XX|  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S4|S4|S4|S4|  |  |  |  |  |  |
+this place has already destroyed
+this place has already destroyed
+the rival's ship2 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship3 was destroyed
+the rival's ship3 was destroyed
+the rival's ship was damaged
+this place has already destroyed
+the rival's ship4 was destroyed
+reza is winner
+ali 3 1 0 1
+reza 3 1 0 1
+89
+logout successful
+program ended

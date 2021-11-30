@@ -1,0 +1,82 @@
+register successful
+register successful
+login successful
+10
+logout successful
+login successful
+14
+logout successful
+login successful
+new game started successfully between xyz and ali
+|I1|  |  |  |  |  |  |  |  |  |
+|  |I1|  |  |  |  |  |  |  |  |
+|  |  |S3|S3|S3|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|  |  |  |S4|  |  |  |  |  |  |
+|S2|S2|  |S4|  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|S2|S2|  |  |  |S3|S3|S3|  |
+turn completed
+|  |  |  |  |  |  |  |  |  |S1|
+|  |S1|  |  |  |  |  |  |  |  |
+|  |  |S3|S3|S3|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|  |  |  |S4|  |  |  |  |  |  |
+|S2|S2|  |S4|  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|S2|S2|  |  |  |S3|S3|S3|  |
+turn completed
+the bomb fell into sea
+turn completed
+wrong coordination
+|  |  |  |
+|  |  |  |
+|  |  |SX|
+|  |  |  |
+|SX|  |  |
+|SX|  |  |
+ali's turn
+|  |XX|  |  |  |  |  |  |  |S1|
+|  |S1|  |  |  |  |  |  |  |  |
+|  |  |S3|S3|S3|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|  |  |  |S4|  |  |  |  |  |  |
+|S2|S2|  |S4|  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|S2|S2|  |  |  |S3|S3|S3|  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+the bomb fell into sea
+turn completed
+xyz is forfeited
+ali is winner
+new_game [username]
+scoreboard
+list_users
+shop
+help
+logout
+ali 2 1 0 0
+xyz -1 0 0 1
+new_game [username]
+scoreboard
+list_users
+shop
+help
+logout
+logout successful
+program ended

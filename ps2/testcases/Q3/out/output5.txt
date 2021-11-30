@@ -1,0 +1,75 @@
+register successful!
+register successful!
+register successful!
+user1
+user2
+user3
+password is wrong!
+login successful!
+calendar created successfully!
+there is no calendar with this ID!
+calendar created successfully!
+calendar opened successfully!
+task added successfully!
+task added successfully!
+task added successfully!
+event added successfully!
+calendar opened successfully!
+task added successfully!
+task added successfully!
+task added successfully!
+event added successfully!
+event added successfully!
+tasks of this calendar:
+Task: class20 F 09_30 11_00
+Task: class0 F 10_30 12_00
+Task: class10 F 10_30 11_00
+events of this calendar:
+Event: E10 T
+Event: E20 F
+events on 2015_10_05:
+Event: E10 T
+Event: E20 F
+tasks on 2015_10_05:
+Task: class20 F 09_30 11_00
+Task: class0 F 10_30 12_00
+Task: class10 F 10_30 11_00
+calendar enabled successfully!
+events on 2015_10_05:
+Event: E1 T
+Event: E10 T
+Event: E20 F
+tasks on 2015_10_05:
+Task: class2 F 09_30 11_00
+Task: class20 F 09_30 11_00
+Task: class0 F 10_30 12_00
+Task: class1 F 10_30 11_00
+Task: class10 F 10_30 11_00
+Task: class3 F 10_30 12_00
+calendar disabled successfully!
+events on 2015_10_05:
+Event: E1 T
+tasks on 2015_10_05:
+Task: class2 F 09_30 11_00
+Task: class1 F 10_30 11_00
+Task: class3 F 10_30 12_00
+calendar opened successfully!
+task deleted successfully!
+events on 2015_10_05:
+Event: E1 T
+tasks on 2015_10_05:
+Task: class2 F 09_30 11_00
+Task: class3 F 10_30 12_00
+Calendar: newCal 2
+calendar enabled successfully!
+events on 2015_10_05:
+Event: E1 T
+Event: E10 T
+Event: E20 F
+tasks on 2015_10_05:
+Task: class2 F 09_30 11_00
+Task: class20 F 09_30 11_00
+Task: class0 F 10_30 12_00
+Task: class10 F 10_30 11_00
+Task: class3 F 10_30 12_00
+logout successful

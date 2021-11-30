@@ -1,0 +1,17 @@
+Register AP        Ap2021 
+Register AP        Ap2021 
+Register AP2        Ap2021     
+Login AP     Ap2021       
+Create New Calendar AP
+Add Task class1     10_30    11_00   2010_10_05     2030_10_05   D F
+   Open       Calendar 1
+Add Task class1     10_30    11_00   2010_10_05     2030_10_05   D F
+Add Task class1     10_30    11_00   2010_10_05     2030_10_05   D F
+Delete Task class1
+Add Task class1     10_30    11_00   2010_10_05     2030_10_05   D F
+Edit Task class1 title class10
+Edit Task class1 start time 15_45
+Edit Task class1 wrong 15_45
+Back  
+Logout
+Exit

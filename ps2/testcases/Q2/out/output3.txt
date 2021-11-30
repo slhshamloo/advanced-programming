@@ -1,0 +1,78 @@
+register successful
+register successful
+login successful
+50
+there is no product with this name
+invalid command
+you don't have enough money
+new game started successfully between xyz and ali
+wrong coordination
+collision with the other ship or mine on the board
+invalid command
+|S1|  |  |  |  |  |  |  |Mm|  |
+|  |S1|  |  |  |  |  |  |  |  |
+|  |  |S3|  |  |  |  |  |  |  |
+|  |  |S3|  |  |  |  |  |  |  |
+|S2|  |S3|S4|  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|  |  |  |S4|  |  |  |  |  |  |
+|S2|S2|  |S4|  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|S2|S2|  |  |  |S3|S3|S3|  |
+turn completed
+|  |  |  |  |  |  |  |  |  |S1|
+|  |S1|  |  |  |  |  |  |  |  |
+|  |  |S3|S3|S3|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|  |  |  |S4|  |  |  |  |  |  |
+|S2|S2|  |S4|  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|S2|S2|  |  |  |S3|S3|S3|  |
+turn completed
+the bomb fell into sea
+turn completed
+the bomb fell into sea
+turn completed
+xyz's turn
+|S1|  |  |  |  |  |  |  |Mm|XX|
+|  |S1|  |  |  |  |  |  |  |  |
+|  |  |S3|  |  |  |  |  |  |  |
+|  |  |S3|  |  |  |  |  |  |  |
+|S2|  |S3|S4|  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|  |  |  |S4|  |  |  |  |  |  |
+|S2|S2|  |S4|  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|S2|S2|  |  |  |S3|S3|S3|  |
+|  |XX|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+the bomb fell into sea
+turn completed
+ali is forfeited
+xyz is winner
+new_game [username]
+scoreboard
+list_users
+shop
+help
+logout
+xyz 2 1 0 0
+ali -1 0 0 1
+new_game [username]
+scoreboard
+list_users
+shop
+help
+logout
+logout successful
+program ended

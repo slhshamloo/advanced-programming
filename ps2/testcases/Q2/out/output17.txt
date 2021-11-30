@@ -1,0 +1,101 @@
+register successful
+register successful
+login successful
+logout successful
+login successful
+logout successful
+login successful
+new game started successfully between login and register
+invalid command
+|S1|  |S2|S2|  |  |  |  |  |S1|
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |  |  |  |  |  |  |S2|
+|S2|  |  |Mm|  |  |  |  |  |S2|
+|  |  |  |Mm|S4|  |  |  |  |  |
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |S4|  |  |S3|S3|S3|
+|  |  |  |  |  |  |  |  |  |  |
+|S1|  |S3|S3|S3|  |  |  |  |S1|
+invalid command
+turn completed
+|  |  |S2|S2|  |  |  |  |  |S1|
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |  |  |  |  |  |  |S2|
+|S2|  |  |S3|S3|S3|  |  |  |S2|
+|  |  |  |S1|S4|  |  |  |  |  |
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S1|  |S3|S3|S3|  |  |  |  |S1|
+invalid command
+turn completed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship4 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship1 was destroyed
+invalid command
+invalid command
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship3 was destroyed
+the rival's ship was damaged
+the rival's ship2 was destroyed
+the rival's ship was damaged
+the rival's ship2 was destroyed
+|  |  |  |  |  |  |  |  |  |D1|
+|  |  |  |  |  |  |  |  |  |  |
+|D2|  |  |  |  |  |  |  |  |D2|
+|D2|  |  |  |DX|DX|  |  |  |D2|
+|  |  |  |  |D4|  |  |  |  |  |
+|  |  |  |  |D4|  |  |  |  |  |
+|  |  |  |  |D4|  |  |  |  |  |
+|  |  |  |  |D4|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|D1|  |D3|D3|D3|  |  |  |  |D1|
+the rival's ship was damaged
+the rival's ship2 was destroyed
+the bomb fell into sea
+turn completed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship2 was destroyed
+the rival's ship2 was destroyed
+the rival's ship was damaged
+the rival's ship2 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship3 was destroyed
+|D1|  |D2|D2|  |  |  |  |  |D1|
+|  |  |  |  |  |  |  |  |  |  |
+|D2|  |  |  |  |  |  |  |  |D2|
+|D2|  |  |  |  |  |  |  |  |D2|
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|D1|  |D3|D3|D3|  |  |  |  |D1|
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship3 was destroyed
+4 pieces of rival's ships was damaged
+draw
+login 1 0 1 0
+register 1 0 1 0
+92
+logout successful
+login successful
+73
+logout successful
+program ended

@@ -1,0 +1,30 @@
+portconfig --close --port 123.456.789.10
+userconfig --create --username bean --password qwerty123trewq
+userconfig --login --password qwerty123trewq --username english
+userconfig --login --username bean --password 12345
+userconfig --username bean --password qwerty123trewq --login
+portconfig --port 17091 --listen
+contactconfig --link --username bean --host 127.0.0.1 --port 17091
+focus --start --username atkinson
+focus --start --username bean
+send --message "This is it" --port 17091 --host 127.0.0.1
+send --message "It just works"
+portconfig --listen --port 17097
+portconfig --rebind --listen --port 17097
+focus --port 17097
+send --message "I'm calling thou"
+show --contact bean
+focus --stop
+send --message "General Kenobi!" --port 17097
+send --username bean --message "Are you there?"
+portconfig --close --port 17097
+show --messages --count --from bean
+show --messages
+show --senders --count
+portconfig --listen --port 17071
+focus --start --host 127.0.0.1 --port 17071
+send --message "Okay I'm back"
+send --message "Are you still there?" --port 17071 --host 127.0.0.1
+send --message "Ight imma head out, bye!" --port 17071
+show --messages --from bean
+show --contacts

@@ -1,0 +1,99 @@
+register successful!
+register successful!
+register successful!
+register successful!
+login successful!
+calendar created successfully!
+logout successful
+login successful!
+calendar created successfully!
+calendar created successfully!
+logout successful
+password is wrong!
+login successful!
+logout successful
+login successful!
+calendar shared!
+calendar shared!
+logout successful
+login successful!
+you don't have access to delete this calendar!
+you don't have access to share this calendar!
+there is no calendar with this ID!
+logout successful
+login successful!
+calendar created successfully!
+logout successful
+login successful!
+you have no calendar with this ID!
+no user exists with this username!
+you have no calendar with this ID!
+invalid username!
+you don't have access to share this calendar!
+calendar opened successfully!
+invalid command!
+invalid command!
+invalid command!
+nothing
+invalid command!
+nothing
+invalid command!
+invalid command!
+invalid command!
+invalid command!
+invalid command!
+you don't have access to do this!
+you don't have access to do this!
+you don't have access to do this!
+you don't have access to do this!
+calendar opened successfully!
+invalid title!
+invalid start date!
+invalid start date!
+invalid end date!
+event added successfully!
+there is another event with this title!
+event added successfully!
+invalid command!
+task added successfully!
+events of this calendar:
+Event: AI F
+Event: ML T
+tasks of this calendar:
+Task: Shower F 19_00 20_00
+invalid command!
+task added successfully!
+event deleted successfully!
+invalid end date!
+event added successfully!
+invalid command!
+event added successfully!
+task added successfully!
+task added successfully!
+task added successfully!
+calendar shared!
+events on 2021_03_15:
+Event: AI F
+Event: DA T
+Event: ML T
+tasks on 2021_03_15:
+Task: Shower F 19_00 20_00
+Task: ML T 23_00 23_30
+events on 2021_03_16:
+Event: AI F
+tasks on 2021_03_16:
+Task: Shower F 19_00 20_00
+events on 2021_03_21:
+Event: AI F
+tasks on 2021_03_21:
+Task: AIC T 10_30 12_00
+Task: AIC2 T 10_30 12_00
+Task: DAC T 13_30 15_00
+Task: Shower F 19_00 20_00
+events on 2021_03_22:
+Event: AI F
+Event: DA T
+tasks on 2021_03_22:
+Task: Shower F 19_00 20_00
+Task: ML T 23_00 23_30
+logout successful

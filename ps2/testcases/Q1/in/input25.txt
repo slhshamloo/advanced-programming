@@ -1,0 +1,59 @@
+create confectionary
+add customer id 21 name amir mahdi kousheshi
+add customer id 21 name amir mahdi kousheshi
+increase balance customer 21 amount 0
+increase balance customer 1 amount [Amount]
+increase balance customer 2 amount 25000
+add warehouse material poodr e shekar amount [AMOUNT]
+add warehouse material poodr e shekar amount 10
+add warehouse material poodr e shekar amount 10
+add warehouse material poodr e ghahve amount 10
+add warehouse material poodr e khame i amount 10
+add sweet name cake e qahve price 10000 materials: poode shekar 10, poodr khame 10
+add sweet name cake e qahve price 10000 materials: poodr e shekar 10, poodr e ghahve 10, poodr e khame i 10
+increase sweet cake e qahve amount 1
+increase sweet cake e qahve amount 1
+increase sweet cake e ghahve amount 1
+add discount code 1234 price 10000
+add discount code 1234 price 10000
+add discount code code 234 to customer id 1
+add discount code code 234 to customer id 21
+add discount code code 1234 to customer id 2
+add discount code code 1234 to customer id 21
+sell sweet sweet cake e qahve amount [AMOUNT] to customer [ID]
+sell sweet cake e qahve amount 2 to customer 21
+sell sweet cake e qahve amount 1 to customer 2
+sell sweet cake e qahve amount 1 to customer 21
+accept transaction 2
+accept transaction 1
+print transactions list
+print income
+sell sweet cake e qahve amount 1 to customer 21
+increase sweet cake e qahve amount 1
+increase warehouse material poodr e shekar amount 10
+  increase warehouse material poodr e ghahve amount 10
+increase warehouse material poodr e khame i amount 10
+increase sweet cake e qahve amount 1
+add customer id 1 name kousheshi
+increase balance customer 1 amount 5000
+add discount code 234 price 5000
+add discount code code 234 to customer id 1
+sell sweet cake e qahve amount 1 to customer 1
+accept transaction 2
+print transactions list
+print income 
+add customer id 2 name b
+increase balance customer 2 amount 10000
+add discount code code 234 to customer id 2
+add warehouse material a amount 100
+add sweet name a price 2000 materials: a 10
+increase sweet a amount 1
+sell sweet a amount 1 to customer 2
+accept transaction 3
+sell sweet a amount 1 to customer 2
+increase sweet a amount 3
+sell sweet a amount 3 to customer 2
+accept transaction 4
+print transactions list
+print income 
+end

@@ -1,0 +1,54 @@
+register xyz hjk
+register ali momeni
+login xyz hjk
+new_game xyz?
+new_game xyz
+new_game yiu
+new_game ali
+put S7 2,2 -h
+put S1 2,200 -v
+put S1 2,2 -x
+put S1 2,3 :)
+put S4 5,8 -h
+put S1 1,1 -v
+put S1 1,1 -h
+put S1 1,1 -v
+put S1 2,2 -h
+put S2 1,5 -v
+put S2 1,8 -h
+put S1 1,9 -h
+put S1 1,10 -v
+put S2 2,10 -h
+put S3 7,10 -h
+show-my-board
+put S3 6,6 -v
+finish-arranging
+put S4 4,5 -v
+put S3 3,3 -h
+finish-arranging
+put S1 1,1 -v
+put S1 2,2 -h
+put S2 1,5 -v
+put S2 1,8 -h
+put S1 1,9 -h
+put S1 1,10 -v
+put S2 2,10 -h
+put S3 7,10 -h
+put S3 3,3 -h
+put S4 4,5 -v
+show-my-board
+finish-arranging
+forfeit
+sop
+shop
+help
+back
+list_users
+help
+logout
+register salam khoobi
+login ali momeni
+list_users
+help
+logout
+exit

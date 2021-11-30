@@ -1,0 +1,57 @@
+invalid command!
+invalid command!
+invalid command!
+invalid command!
+password is weak!
+invalid username!
+password is weak!
+invalid command!
+invalid username!
+invalid password!
+invalid username!
+password is weak!
+password is weak!
+register successful!
+a user exists with this username
+register successful!
+no user exists with this username
+invalid command!
+invalid username!
+login successful!
+calendar created successfully!
+logout successful
+no user exists with this username
+invalid password!
+password is wrong!
+invalid command!
+invalid command!
+invalid username!
+invalid new password!
+no user exists with this username
+login successful!
+calendar created successfully!
+logout successful
+login successful!
+logout successful
+invalid command!
+invalid command!
+invalid old password!
+password is wrong!
+password changed successfully!
+new password is weak!
+new password is weak!
+password changed successfully!
+invalid username!
+no user exists with this username
+login successful!
+logout successful
+password is wrong!
+invalid command!
+password is wrong!
+invalid command!
+invalid username!
+invalid username!
+password is wrong!
+no user exists with this username
+invalid password!
+removed successfully!

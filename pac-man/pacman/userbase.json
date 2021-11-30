@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "username": "slh",
+      "password": "123",
+      "highScore": 0
+    },
+    {
+      "username": "ali",
+      "password": "123",
+      "highScore": 0
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+invalid command!
+register successful!
+invalid command!
+login successful!
+calendar created successfully!
+calendar opened successfully!
+invalid start date!
+there is no calendar with this ID!
+there is no calendar with this ID!
+invalid command!
+invalid command!
+invalid command!
+logout successful

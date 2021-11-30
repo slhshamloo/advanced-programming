@@ -1,0 +1,9 @@
+transaction 1 successfully created
+insufficient sweet
+insufficient sweet
+sweet not found
+customer not found
+customer has not enough money
+transaction 2 successfully created
+0
+210000

@@ -1,0 +1,8 @@
+invalid command
+warehouse having this material already exists
+customer not found
+transaction 1 successfully created
+customer not found
+0
+invalid command
+0

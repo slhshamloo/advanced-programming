@@ -1,0 +1,136 @@
+register successful
+register successful
+register successful
+login successful
+19
+logout successful
+login successful
+invalid command
+new game started successfully between jabbar and 09124870000
+invalid command
+invalid command
+put S[number] [x],[y] [-h|-v]
+put-mine [x],[y]
+put-antiaircraft [s] [-h|-v]
+invisible [x],[y]
+show-my-board
+help
+finish-arranging
+invalid command
+collision with the other ship or mine on the board
+collision with the other ship or mine on the board
+collision with the other ship or mine on the board
+invalid ship number
+|S1|S2|S2|  |  |  |  |S2|  |  |
+|S1|  |  |  |  |  |  |S2|  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |S3|S3|S3|  |  |  |
+|  |  |S3|S3|S3|  |  |  |  |  |
+|  |S4|  |  |  |  |  |  |  |  |
+|  |S4|  |  |  |  |  |  |  |  |
+|  |S4|  |  |  |  |  |  |S2|  |
+|  |S4|  |  |  |  |  |  |S2|  |
+turn completed
+wrong coordination
+off the board
+wrong coordination
+|  |  |  |  |  |  |  |AA|AA|AA|
+|  |  |  |  |  |  |  |AA|AA|AA|
+|  |  |  |  |  |  |  |AA|AA|AA|
+|  |  |  |  |  |  |  |AA|AA|AA|
+|  |  |  |  |  |  |  |AA|AA|AA|
+|  |  |  |  |  |  |  |AA|AA|AA|
+|  |  |  |  |  |  |  |AA|AA|AA|
+|  |  |  |  |  |  |  |AA|AA|AA|
+|  |  |  |  |  |  |  |AA|AA|AA|
+|  |  |  |  |  |  |  |AA|AA|AA|
+wrong coordination
+|S2|  |  |  |  |  |  |AA|AA|AA|
+|S2|  |  |  |  |  |  |AA|AA|AA|
+|  |  |  |  |  |  |  |AA|AA|AA|
+|  |  |  |  |  |  |  |S4|AA|AA|
+|  |  |  |  |  |  |  |S4|AA|AA|
+|  |  |  |  |  |  |  |S4|AA|AA|
+|  |  |  |  |  |  |  |S4|AA|AA|
+|  |  |  |  |  |  |  |AA|AA|AA|
+|  |  |  |  |  |  |  |AA|AA|AA|
+|  |  |  |  |  |  |  |Mm|AA|AA|
+|S2|  |S1|  |  |  |  |AA|AA|AA|
+|S2|S2|  |  |  |  |  |AA|AA|S1|
+|  |S2|  |  |  |  |  |AA|AA|AA|
+|  |  |  |S1|  |  |  |S4|AA|AA|
+|  |  |  |  |  |  |  |S4|AA|AA|
+|  |  |  |  |  |  |  |S4|AA|AA|
+|S3|S3|S3|S3|  |  |  |S4|AA|AA|
+|S3|  |  |  |  |  |  |AA|AA|AA|
+|S3|  |  |  |  |  |  |AA|S2|S2|
+|S1|  |  |  |  |  |  |Mm|AA|AA|
+invalid command
+turn completed
+the bomb fell into sea
+turn completed
+the bomb fell into sea
+turn completed
+the rival's antiaircraft destroyed your airplane
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |XX|
+jabbar's turn
+|S1|S2|S2|  |  |  |  |S2|  |  |
+|S1|  |  |  |  |  |  |S2|  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |S3|S3|S3|  |  |  |
+|  |  |S3|S3|S3|  |  |  |  |  |
+|  |S4|  |  |  |  |  |  |  |  |
+|  |S4|  |  |  |  |  |  |  |  |
+|  |S4|  |  |  |  |  |  |S2|  |
+|  |S4|  |  |  |  |  |  |S2|XX|
+the bomb fell into sea
+turn completed
+|S2|  |S1|  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |S1|
+|  |S2|  |  |  |  |  |  |  |  |
+|  |  |  |S1|  |  |  |S4|  |  |
+|  |  |  |  |  |  |  |S4|  |  |
+|  |  |  |  |  |  |  |S4|  |  |
+|S3|S3|S3|S3|  |  |  |S4|  |  |
+|S3|  |  |  |  |  |  |  |  |  |
+|S3|  |  |  |  |  |  |  |S2|S2|
+|S1|  |  |  |  |XX|  |Mm|  |XX|
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+this place has already destroyed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship was damaged
+the rival's ship2 was destroyed
+09124870000 is forfeited
+jabbar is winner
+jabbar 2 1 0 0
+jabber 0 0 0 0
+09124870000 -1 0 0 1
+40
+you don't have enough money
+logout successful
+invalid command
+login successful
+40
+there is no product with this name
+invalid command
+there is no product with this name
+invalid command
+logout successful
+username format is invalid
+login successful
+-31
+logout successful
+program ended

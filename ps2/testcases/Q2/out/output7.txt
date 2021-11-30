@@ -1,0 +1,100 @@
+register successful
+register successful
+login successful
+30
+logout successful
+login successful
+20
+logout successful
+login successful
+new game started successfully between xyz and ali
+|S1|  |  |  |  |  |  |  |  |  |
+|  |S1|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|S2|  |  |S4|  |S3|  |  |  |  |
+|  |  |  |S4|  |S3|  |  |  |  |
+|S2|S2|  |S4|  |S3|  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|S2|S2|  |  |  |S3|S3|S3|  |
+turn completed
+off the board
+off the board
+you don't have enough antiaircraft
+|  |  |  |  |  |AA|AA|AA|  |S1|
+|  |S1|  |  |  |AA|AA|AA|  |  |
+|  |  |  |  |  |AA|AA|AA|  |  |
+|  |  |  |  |  |AA|AA|AA|  |  |
+|S2|  |  |S4|  |AA|AA|AA|  |  |
+|S2|  |  |S4|  |S3|AA|AA|  |  |
+|  |  |  |S4|  |S3|AA|AA|  |  |
+|S2|S2|  |S4|  |S3|AA|AA|  |  |
+|S1|  |  |  |  |AA|AA|AA|  |  |
+|S1|S2|S2|  |  |AA|S3|S3|S3|  |
+turn completed
+the rival's antiaircraft destroyed your airplane
+|S1|  |  |  |  |  |  |  |  |  |
+|  |S1|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|S2|  |  |S4|  |S3|  |  |  |  |
+|  |  |  |S4|  |S3|  |  |  |  |
+|S2|S2|  |S4|  |S3|  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|S2|S2|  |  |  |S3|S3|S3|  |
+invalid command
+the rival's ship1 was destroyed
+|S1|  |  |  |  |  |  |  |  |  |
+|  |S1|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|S2|  |  |S4|  |S3|  |  |  |  |
+|  |  |  |S4|  |S3|  |  |  |  |
+|S2|S2|  |S4|  |S3|  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|S2|S2|  |  |  |S3|S3|S3|  |
+invalid command
+xyz's turn
+|S1|  |  |  |  |  |  |  |  |  |
+|  |S1|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|S2|  |  |S4|  |S3|  |  |  |  |
+|  |  |  |S4|  |S3|  |  |  |  |
+|S2|S2|  |S4|  |S3|  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|S2|S2|  |  |  |S3|S3|S3|  |
+|  |  |  |  |  |  |  |  |  |D1|
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+the bomb fell into sea
+turn completed
+ali is forfeited
+xyz is winner
+new_game [username]
+scoreboard
+list_users
+shop
+help
+logout
+xyz 2 1 0 0
+ali -1 0 0 1
+new_game [username]
+scoreboard
+list_users
+shop
+help
+logout
+logout successful
+program ended

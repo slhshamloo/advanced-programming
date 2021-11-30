@@ -1,0 +1,153 @@
+register successful
+register successful
+login successful
+there is no product with this name
+30
+new_game [username]
+scoreboard
+list_users
+shop
+help
+logout
+invalid command
+new game started successfully between pedram and john
+off the board
+|S4|S4|S4|S4|  |  |  |  |  |  |
+|Mm|S3|S3|S3|  |  |  |  |  |  |
+|Mm|  |S3|S3|S3|  |  |  |  |  |
+|  |  |  |S2|S2|  |  |  |  |  |
+|  |  |  |  |S2|S2|  |  |  |  |
+|  |  |  |  |  |S2|S2|  |  |  |
+|  |  |  |  |  |  |S1|  |  |  |
+|  |  |  |  |  |  |  |S1|  |  |
+|  |  |  |  |  |  |  |  |S1|  |
+|  |  |  |  |  |  |  |  |  |S1|
+turn completed
+off the board
+you don't have this type of ship
+you don't have this type of ship
+you don't have this type of ship
+|S2|  |S2|S2|  |  |  |  |S2|S2|
+|S2|S4|S4|S4|S4|  |  |  |  |  |
+|  |  |S3|S3|S3|  |  |  |  |  |
+|  |  |  |S3|S3|S3|  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |S1|  |  |
+|  |  |  |  |  |  |  |  |S1|  |
+|S1|  |  |  |  |  |  |  |  |S1|
+turn completed
+the rival's ship was damaged
+|DX|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+the bomb fell into sea
+turn completed
+the rival's ship was damaged
+you destroyed the rival's mine
+turn completed
+|S4|D4|S4|S4|  |  |  |  |  |  |
+|MX|S3|S3|S3|  |  |  |  |  |  |
+|Mm|  |S3|S3|S3|  |  |  |  |  |
+|  |  |  |S2|S2|  |  |  |  |  |
+|  |  |  |  |S2|S2|  |  |  |  |
+|  |  |  |  |  |S2|S2|  |  |  |
+|  |  |  |  |  |  |S1|  |  |  |
+|  |  |  |  |  |  |  |S1|  |  |
+|  |  |  |  |  |  |  |  |S1|  |
+|  |  |  |  |  |  |  |  |  |S1|
+|D2|XX|  |  |  |  |  |  |  |  |
+|D2|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+pedram's turn
+|SX|  |  |
+|  |SX|  |
+|  |  |SX|
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the bomb fell into sea
+turn completed
+you destroyed the rival's mine
+turn completed
+|S4|D4|S4|S4|  |  |  |  |  |  |
+|MX|S3|S3|S3|  |  |  |  |  |  |
+|MX|  |S3|S3|S3|  |  |  |  |  |
+|  |  |  |S2|S2|  |  |  |  |  |
+|  |  |  |  |S2|S2|  |  |  |  |
+|  |  |  |  |  |S2|S2|  |  |  |
+|  |  |  |  |  |  |S1|  |  |  |
+|  |  |  |  |  |  |  |S1|  |  |
+|  |  |  |  |  |  |  |  |S1|  |
+|  |  |  |  |  |  |  |  |  |S1|
+|  |  |SX|
+|  |SX|SX|
+|  |  |SX|
+|D2|XX|  |  |  |  |  |  |  |  |
+|D2|  |  |  |  |  |  |  |  |  |
+|XX|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |XX|  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |D1|  |  |
+|  |  |  |  |  |  |  |  |D1|  |
+|  |  |  |  |  |  |  |  |  |D1|
+you don't have scanner
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship was damaged
+this place has already destroyed
+the rival's ship2 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship4 was destroyed
+the rival's ship3 was destroyed
+the rival's ship was damaged
+the rival's ship3 was destroyed
+|D2|XX|D2|D2|  |  |  |  |  |  |
+|D2|D4|D4|D4|D4|  |  |  |  |  |
+|XX|  |D3|D3|D3|  |  |  |  |  |
+|  |  |  |D3|D3|D3|  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |XX|  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |D1|  |  |
+|  |  |  |  |  |  |  |  |D1|  |
+|  |  |  |  |  |  |  |  |  |D1|
+the rival's ship1 was destroyed
+the rival's ship was damaged
+the rival's ship2 was destroyed
+pedram is winner
+pedram 3 1 0 0
+john 0 0 0 1
+100
+logout successful
+login successful
+49
+logout successful
+removed pedram successfully
+register successful
+login successful
+pedram 0 0 0 0
+john 0 0 0 1
+50
+logout successful
+program ended

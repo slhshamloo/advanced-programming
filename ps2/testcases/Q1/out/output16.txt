@@ -1,0 +1,10 @@
+customer not found
+insufficient sweet
+transaction 1 successfully created
+insufficient material(s): shekar 
+insufficient sweet
+customer has not enough money
+transaction 2 successfully created
+transaction 1: 21 500 -1 500
+transaction 2: 1 2000 -1 2000
+2500

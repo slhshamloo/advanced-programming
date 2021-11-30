@@ -1,0 +1,147 @@
+invalid command
+invalid command
+invalid command
+register successful
+register successful
+password format is invalid
+invalid command
+login successful
+invalid command
+logout successful
+login successful
+no user exists with this username
+new game started successfully between ap and 0_0
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |Mm|  |  |  |  |  |  |  |
+|S1|  |Mm|  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S4|S4|S4|S4|  |  |  |  |  |  |
+turn completed
+you don't have this type of ship
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |I2|S2|  |  |  |  |S1|  |
+|  |  |Mm|  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S4|S4|S4|S4|  |  |  |  |  |  |
+turn completed
+you destroyed the rival's mine
+turn completed
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |I2|S2|  |  |  |  |S1|  |
+|  |  |MX|  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S4|S4|S4|S4|  |  |  |  |  |  |
+0_0's turn
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |MX|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+you destroyed the rival's mine
+turn completed
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |DX|  |  |  |  |  |  |  |
+|  |  |MX|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+invalid command
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |MX|  |  |  |  |  |  |  |
+|S1|  |MX|  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S4|S4|S4|S4|  |  |  |  |  |  |
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship2 was destroyed
+this place has already destroyed
+the rival's ship1 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship2 was destroyed
+the rival's ship2 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship3 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship3 was destroyed
+the rival's ship was damaged
+|D1|  |  |  |  |  |  |  |  |  |
+|D1|  |  |  |  |  |  |  |  |  |
+|D1|  |D2|D2|  |  |  |  |D1|  |
+|  |  |MX|  |  |  |  |  |  |  |
+|D2|D2|  |  |  |  |  |  |  |  |
+|D2|D2|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|D3|D3|D3|  |  |  |  |  |  |  |
+|D3|D3|D3|  |  |  |  |  |  |  |
+|DX|  |DX|DX|  |  |  |  |  |  |
+the rival's ship4 was destroyed
+ap is winner
+ap 3 1 0 0
+0_0 0 0 0 1
+117
+new game started successfully between ap and 0_0
+you don't have enough mine
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S4|S4|S4|S4|  |  |  |  |  |  |
+turn completed
+you don't have this type of ship
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |S2|S2|  |  |  |  |S1|  |
+|  |  |Mm|  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S4|S4|S4|S4|  |  |  |  |  |  |
+turn completed
+ap is forfeited
+0_0 is winner
+0_0 2 1 0 1
+ap 2 1 0 1
+logout successful
+program ended

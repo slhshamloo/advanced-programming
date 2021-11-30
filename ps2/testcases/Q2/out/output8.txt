@@ -1,0 +1,123 @@
+no user exists with this username
+invalid command
+register successful
+sina
+username format is invalid
+password format is invalid
+invalid command
+invalid command
+register [username] [password]
+login [username] [password]
+remove [username] [password]
+list_users
+help
+exit
+register successful
+a user exists with this username
+register successful
+removed ali successfully
+bahram
+sina
+no user exists with this username
+no user exists with this username
+register successful
+no user exists with this username
+no user exists with this username
+login successful
+invalid command
+ali
+bahram
+sina
+invalid command
+ali 0 0 0 0
+bahram 0 0 0 0
+sina 0 0 0 0
+48
+buy [product] [number]
+show-amount
+help
+back
+new_game [username]
+scoreboard
+list_users
+shop
+help
+logout
+invalid command
+logout successful
+login successful
+new game started successfully between sina and ali
+you don't have enough mine
+invalid command
+invalid ship number
+wrong coordination
+invalid command
+collision with the other ship or mine on the board
+invalid command
+you don't have this type of ship
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+invalid command
+you must put all ships on the board
+you don't have this type of ship
+you don't have this type of ship
+|S1|  |  |  |  |S4|S4|S4|S4|  |
+|S1|S3|S3|S3|  |  |  |  |  |  |
+|S1|  |S3|  |  |  |  |  |  |  |
+|S1|  |S3|  |  |  |  |  |  |  |
+|  |  |S3|  |S2|S2|  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |S2|  |  |  |
+|  |  |  |  |  |  |S2|S2|S2|  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+turn completed
+collision with the other ship or mine on the board
+you don't have this type of ship
+invalid command
+you don't have this type of ship
+you must put all ships on the board
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|S3|S3|S3|  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |S4|S4|S4|S4|  |S2|S2|  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |S2|  |  |  |
+|  |  |  |  |  |  |S2|S2|S2|  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |Mm|
+turn completed
+sina's turn
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+sina is forfeited
+ali is winner
+invalid command
+ali 2 1 0 0
+bahram 0 0 0 0
+sina -1 0 0 1
+0
+you don't have enough money
+logout successful
+login successful
+48
+there is no product with this name
+logout successful
+program ended

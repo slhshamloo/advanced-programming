@@ -1,0 +1,57 @@
+invalid command 1
+invalid command 2
+create confectionary
+add customer id 80 name amir hossein
+add customer id 80 name hodfdf
+add customer id 100 name amir hossein
+add customer id 120 name amir mehdi
+add customer id 185 name asghar ali
+increase balance customer 80 amount 20000
+increase balance customer 55 amount 30000
+increase balance customer 100 amount 30000
+increase balance customer 120 amount 50000
+increase balance customer 185 amount 1000
+add warehouse material suger amount 1000000
+add warehouse material suger amount 100
+add warehouse material khame amount 500000
+add warehouse material butter amount 50000
+add warehouse material coconut amount 50000
+add warehouse material banana amount 50000
+increase warehouse material suger amount 1000
+increase warehouse material oil amount 10000000
+print transactions list
+print income
+add sweet name Cake price 2500 materials: suger 100, khame 10
+add sweet name rolet price 5000 materials: suger 100, khame 100, coconut 50
+add sweet name cheese cake price 7000 materials: suger 100, khame 100, butter 70
+add sweet name halva price 7000 materials: ard 100, oil 200
+increase sweet kashk amount 10
+increase sweet Cake amount 500000
+increase sweet Cake amount 10
+increase sweet halva amount 100
+increase sweet rolet amount 50
+increase sweet cheese cake amount 10
+invalid command 3
+print income
+add discount code 500 price 10000
+add discount code 8888 price 20000
+add discount code 3000 price 30000
+add discount code 8080 price 5000
+add discount code code 8888 to customer id 80
+add discount code code 8888 to customer id 185
+add discount code code 1111 to customer id 80
+add discount code code 8888 to customer id 800000
+add discount code code 8080 to customer id 100
+print transactions list
+print income
+sell sweet napeloni amount 100 to customer 80
+sell sweet Cake amount 5 to customer 8000000
+sell sweet Cake amount 50000 to customer 80
+sell sweet Cake amount 10 to customer 185
+sell sweet Cake amount 10 to customer 80
+print transactions list
+accept transaction 65
+accept transaction 1
+print transactions list
+print income
+end

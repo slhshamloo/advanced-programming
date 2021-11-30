@@ -1,0 +1,8 @@
+not found warehouse(s): coconut milk honey 
+sweet not found
+sweet not found
+transaction 1 successfully created
+0
+no waiting transaction with this id was found
+50000
+transaction 1: 100 50000 -1 50000

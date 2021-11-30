@@ -1,0 +1,17 @@
+create confectionary
+add customer id 1 name a
+increase warehouse material a amount 10
+add warehouse material a amount 10
+increase warehouse material a amount 10
+add sweet name a price 10 materials: b 2, c 1
+add sweet name a price 10 materials: a 40, c 1
+add sweet name a price 10 materials: a 40
+add sweet name a price 10 materials: a 2
+increase sweet b amount 1
+increase sweet a amount 1
+sell sweet a amount 1 to customer 1
+increase balance customer 1 amount 10
+sell sweet a amount 1 to customer 1
+accept transaction 1
+print income
+end

@@ -1,0 +1,24 @@
+create confectionary
+add customer id 21 name dutchman
+increase balance customer 21 amount 25000
+add warehouse material shekar amount 10
+add sweet name danmarki price 1000 materials: shekar 2
+add customer id 1 name Amir Mahdi
+increase balance customer 2 amount 5000
+increase balance customer 1 amount 100
+add warehouse material roghan amount 10
+add sweet name morabai price 500 materials: roghan 5
+sell sweet morabai amount 1 to customer 21
+increase sweet morabai amount 1
+sell sweet morabai amount 1 to customer 21
+increase sweet danmarki amount 6
+increase sweet danmarki amount 2
+sell sweet danmarki amount 3 to customer 1
+sell sweet danmarki amount 2 to customer 1
+increase balance customer 1 amount 10000
+sell sweet danmarki amount 2 to customer 1
+accept transaction 1
+accept transaction 2
+print transactions list
+print income
+end

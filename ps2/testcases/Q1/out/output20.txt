@@ -1,0 +1,3 @@
+transaction 1 successfully created
+transaction 1: 1 50 1 0
+0

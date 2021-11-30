@@ -1,0 +1,8 @@
+customer with this id already exists
+customer not found
+transaction 1 successfully created
+transaction 2 successfully created
+0
+55000
+transaction 1: 80 5000 -1 5000
+transaction 2: 100 50000 -1 50000

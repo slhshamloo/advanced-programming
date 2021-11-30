@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Button?>
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="view.MainMenuView" fx:id="root"
+            prefHeight="600.0" prefWidth="800.0"
+            stylesheets="@../css/style.css"
+            styleClass="root">
+  <top>
+    <HBox alignment="CENTER" spacing="10" translateY="40">
+      <ImageView fx:id="powerPelletImage" fitWidth="32" fitHeight="32">
+        <Image url="@../image/power-pellet.png"/>
+      </ImageView>
+      <ImageView fx:id="pacmanSprite" fitWidth="52" fitHeight="52">
+        <Image url="@../image/pacman-large.png"/>
+      </ImageView>
+      <ImageView fx:id="blinkySprite" fitWidth="56" fitHeight="56">
+        <Image url="@../image/ghost.png"/>
+      </ImageView>
+      <ImageView fx:id="pinkySprite" fitWidth="56" fitHeight="56">
+        <Image url="@../image/ghost.png"/>
+      </ImageView>
+      <ImageView fx:id="inkySprite" fitWidth="56" fitHeight="56">
+        <Image url="@../image/ghost.png"/>
+      </ImageView>
+      <ImageView fx:id="clydeSprite" fitWidth="56" fitHeight="56">
+        <Image url="@../image/ghost.png"/>
+      </ImageView>
+    </HBox>
+  </top>
+  <center>
+    <VBox alignment="CENTER" spacing="30">
+      <Button text="New Game" styleClass="button-violet" onMouseClicked="#startNewGame"/>
+      <Button text="Continue" styleClass="button-indigo"/>
+      <Button text="Scoreboard" styleClass="button-blue"/>
+    </VBox>
+  </center>
+  <left>
+    <VBox alignment="CENTER" spacing="30" translateX="30">
+      <Button text="Maps" styleClass="button-green"/>
+      <Button text="Profile" styleClass="button-yellow"/>
+    </VBox>
+  </left>
+  <right>
+    <VBox alignment="CENTER" spacing="30" translateX="-30">
+      <Button text="Logout" styleClass="button-orange" onMouseClicked="#enterWelcomeMenu"/>
+      <Button text="Exit" styleClass="button-red" onMouseClicked="#closeApplication"/>
+    </VBox>
+  </right>
+</BorderPane>

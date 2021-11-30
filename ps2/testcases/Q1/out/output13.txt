@@ -1,0 +1,24 @@
+invalid command
+invalid command
+customer with this id already exists
+customer not found
+warehouse having this material already exists
+warehouse not found
+0
+not found warehouse(s): ard oil 
+sweet not found
+insufficient material(s): khame suger 
+sweet not found
+invalid command
+0
+discount code not found
+customer not found
+0
+sweet not found
+customer not found
+insufficient sweet
+customer has not enough money
+transaction 1 successfully created
+no waiting transaction with this id was found
+transaction 1: 80 25000 8888 5000
+5000

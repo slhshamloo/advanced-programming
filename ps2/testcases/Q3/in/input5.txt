@@ -1,0 +1,39 @@
+Register   user1    User1
+Register user2         User2      
+                 Register user3          User3               
+Show All          Usernames
+         Login user1           user1
+Login       user1              User1
+      Open Calendar             2
+Create New        Calendar newCal
+      Open Calendar             2
+Add Task class1     10_30    11_00   2010_10_05     2030_10_05   D F
+Add Task class2     09_30    11_00   2010_10_05     2030_10_05   D F
+Add Task class3     10_30    12_00   2010_10_05     2030_10_05   D F
+Add Event E1            2010_10_05     2030_10_05   D           T
+Add Event E2            2010_10_05     2030_10_05   D           T
+Back     
+      Open Calendar             1
+Add Task class10     10_30    11_00   2010_10_05     2030_10_05   D F
+Add Task class20     09_30    11_00   2010_10_05     2030_10_05   D F
+Add Task class0     10_30    12_00   2010_10_05     2030_10_05   D F
+Add Event E10            2010_10_05     2030_10_05   D           T
+link1
+Add Event           E20            2010_10_05     2030_10_05   D           F
+Show tasks
+Show Events
+Back     
+Show             2015_10_05   
+Enable Calendar 2
+Show 2015_10_05
+Disable Calendar 1
+Show 2015_10_05  
+      Open Calendar             2
+Delete Task class1
+Back     
+Show             2015_10_05   
+Show Enabled Calendars
+Enable Calendar 1
+Show 2015_10_05  
+Logout
+Exit

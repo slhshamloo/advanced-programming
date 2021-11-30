@@ -1,0 +1,96 @@
+register 09124870000 0
+register jabbar sink
+register jabber 123
+login 09124870000 0
+shop
+buy antiaircraft 1
+buy mine 1
+show-amount
+back
+logout
+login jabbar sink
+shop
+buy airplane 1
+back
+new_game  jabbar
+new_game 09124870000
+put S1 2,d -h
+put S1 2.2 -h
+help
+put S1 1,1
+put S1 1,1 -v
+put S1 1,2 -h
+put S1 1,3 -h
+put S1 1,4 -v
+put S2 2,1 -h
+put S2 1,1 -v
+put S2 3,1 -h
+put S2 9,9 -v
+put S2 1,4 -h
+put S3 5,5 -h
+put S3 3,6 -h
+put S4 2,7 -v
+put S22 1,1 -h
+put S2 8,1 -v
+show-my-board
+finish-arranging
+put-antiaircraft 0 -v
+put-antiaircraft 9 -v
+put-antiaircraft 8 -v
+put-antiaircraft 52 -v
+show-my-board
+put S4 8,4 -v
+put-mine 8,10
+put S2 1,1 -v
+put-mine 14,14
+show-my-board
+put S2 9,9 -h
+put S2 2,2 -v
+put S1 3,1 -v
+put S1 10,2 -h
+put S1 4,4 -v
+put S1 1,10 -h
+put S3 1,7 -v
+put S3 2,7 -h
+show-my-board
+finish-arrnging
+finish-arranging
+bomb 10,10
+bomb 10,10
+put-airplane 6,9 -h
+show-rival-board
+show-turn
+show-my-board
+bomb 6,10
+show-my-board
+bomb 1,1
+bomb 1,2
+bomb 1,1
+bomb 1,3
+bomb 1,4
+bomb 2,1
+bomb 3,1
+forfeit
+scoreboard
+shop
+show-amount
+buy invisible 33
+back
+logout
+login jabbar  sink
+login jabbar sink
+shop
+show-amount
+buy sink 12
+buy   12
+buy !@# 1
+back
+back
+logout
+login 0-912 123
+login 09124870000 0
+shop
+show-amount
+back
+logout
+exit

@@ -1,0 +1,176 @@
+username format is invalid
+register successful
+password format is invalid
+register successful
+password format is invalid
+incorrect password
+login successful
+new game started successfully between ali and bob
+invalid command
+invalid ship number
+collision with the other ship or mine on the board
+you don't have this type of ship
+you must put all ships on the board
+|S1|S2|S2|S3|S3|S3|  |  |  |  |
+|S2|S1|S2|S2|S4|  |  |  |  |  |
+|S2|S3|S1|S1|S4|  |  |  |  |  |
+|  |S3|  |  |S4|  |  |  |  |  |
+|  |S3|  |  |S4|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+turn completed
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+invalid command
+invalid ship number
+invalid command
+|S4|S3|S3|S2|S2|  |  |  |  |  |
+|S4|S3|S3|S2|S2|  |  |  |  |  |
+|S4|S3|S3|  |  |  |  |  |  |  |
+|S4|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+off the board
+collision with the other ship or mine on the board
+invalid command
+|S4|S3|S3|S2|S2|S2|S1|S1|S1|S1|
+|S4|S3|S3|S2|S2|S2|  |  |  |  |
+|S4|S3|S3|  |  |  |  |  |  |  |
+|S4|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+turn completed
+ali's turn
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship1 was destroyed
+|DX|DX|  |  |  |  |  |  |  |D1|
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+the bomb fell into sea
+turn completed
+the rival's ship1 was destroyed
+|D4|D3|S3|S2|S2|S2|S1|S1|S1|D1|
+|S4|S3|S3|S2|S2|S2|  |  |  |  |
+|S4|S3|S3|  |  |  |  |  |  |  |
+|S4|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |XX|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+bob's turn
+|D1|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+wrong coordination
+the bomb fell into sea
+turn completed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship4 was destroyed
+|D4|DX|  |  |  |  |  |  |  |D1|
+|D4|  |  |  |  |  |  |  |  |  |
+|D4|  |  |  |  |  |  |  |  |  |
+|D4|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |XX|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+this place has already destroyed
+the rival's ship was damaged
+the rival's ship3 was destroyed
+|D1|S2|S2|S3|S3|S3|  |  |  |  |
+|S2|S1|S2|S2|S4|  |  |  |  |  |
+|S2|S3|S1|S1|S4|  |  |  |  |  |
+|  |S3|  |  |S4|  |  |  |  |  |
+|  |S3|  |  |S4|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |XX|
+this place has already destroyed
+the bomb fell into sea
+turn completed
+|D4|D3|S3|S2|S2|S2|S1|S1|S1|D1|
+|D4|D3|S3|S2|S2|S2|  |  |  |  |
+|D4|D3|S3|  |  |  |  |  |  |  |
+|D4|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |XX|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |XX|
+the bomb fell into sea
+turn completed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship3 was destroyed
+the rival's ship was damaged
+the rival's ship2 was destroyed
+the rival's ship was damaged
+the rival's ship2 was destroyed
+the rival's ship was damaged
+the rival's ship2 was destroyed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+ali is winner
+invalid command
+invalid command
+ali 3 1 0 0
+bob 0 0 0 1
+120
+logout successful
+login successful
+51
+logout successful
+program ended

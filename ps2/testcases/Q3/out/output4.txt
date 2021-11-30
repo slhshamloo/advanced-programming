@@ -1,0 +1,33 @@
+invalid command!
+register successful!
+invalid command!
+login successful!
+calendar created successfully!
+calendar opened successfully!
+task added successfully!
+task added successfully!
+task added successfully!
+there is another task with this title!
+task added successfully!
+event added successfully!
+tasks of this calendar:
+Task: class2 F 09_30 11_00
+Task: class1 F 10_30 11_00
+Task: class3 F 10_30 12_00
+Task: class5 T 10_30 11_00
+events of this calendar:
+Event: E1 T
+task deleted successfully!
+task edited!
+tasks of this calendar:
+Task: class2 F 09_30 11_00
+Task: class10 F 10_30 11_00
+Task: class3 F 10_30 12_00
+there is no event with this title!
+events on 2015_10_05:
+Event: E1 T
+tasks on 2015_10_05:
+Task: class2 F 09_30 11_00
+Task: class10 F 10_30 11_00
+Task: class3 F 10_30 12_00
+logout successful

@@ -1,0 +1,12 @@
+invalid command
+warehouse having this material already exists
+not found warehouse(s): coconut 
+sweet not found
+customer not found
+sweet not found
+customer not found
+0
+no waiting transaction with this id was found
+invalid command
+no waiting transaction with this id was found
+0

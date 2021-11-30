@@ -1,0 +1,114 @@
+chetori joone del
+bargharari aziz?
+registerr ali 234
+register 0_0 o_o
+register ap 9900
+login 0_0 ()
+login (0_0)
+login 0_0 o_o
+shop
+buy invisible
+buy invisible 1
+buy mine 2
+back
+logout
+login ap 9900
+shop
+buy mine 2
+back
+new_game 0_o
+new_game 0_0
+put S1 1,1 -v
+put S1 1,2 -v
+put S1 1,3 -v
+put S1 1,4 -v
+put S2 1,5 -h
+put S2 1,6 -h
+put S2 1,7 -h
+put S3 1,8 -h
+put S3 1,9 -h
+put S4 1,10 -h
+put-mine 3,3
+put-mine 3,4
+show-my-board
+finish-arranging
+put S1 1,1 -v
+put S1 1,2 -v
+put S1 1,3 -v
+put S1 9,3 -v
+put S2 3,3 -h
+invisible 3,3
+put-mine 3,4
+put S2 1,5 -h
+put S2 1,6 -h
+put S2 1,7 -h
+put S3 1,8 -h
+put S3 1,9 -h
+put S4 1,10 -h
+show-my-board
+finish-arranging
+bomb 3,4
+show-my-board
+show-turn
+show-rival-board
+bomb 3,3
+show-rival-board
+put-mine 3,4
+show-my-board
+bomb 1,1
+bomb 1,2
+bomb 1,3
+bomb 4,3
+bomb 3,3
+bomb 9,3
+bomb 1,5
+bomb 1,6
+bomb 2,5
+bomb 2,6
+bomb 1,10
+bomb 1,9
+bomb 1,8
+bomb 2,8
+bomb 3,8
+bomb 3,9
+bomb 3,10
+bomb 2,9
+bomb 4,10
+show-rival-board
+bomb 2,10
+scoreboard
+shop
+show-amount
+back
+new_game 0_0
+put S1 1,1 -v
+put S1 1,2 -v
+put S1 1,3 -v
+put S1 1,4 -v
+put S2 1,5 -h
+put S2 1,6 -h
+put S2 1,7 -h
+put S3 1,8 -h
+put S3 1,9 -h
+put S4 1,10 -h
+put-mine 3,3
+show-my-board
+finish-arranging
+put S1 1,1 -v
+put S1 1,2 -v
+put S1 1,3 -v
+put S1 9,3 -v
+put S2 3,3 -h
+put-mine 3,4
+put S2 1,5 -h
+put S2 1,6 -h
+put S2 1,7 -h
+put S3 1,8 -h
+put S3 1,9 -h
+put S4 1,10 -h
+show-my-board
+finish-arranging
+forfeit
+scoreboard
+logout
+exit

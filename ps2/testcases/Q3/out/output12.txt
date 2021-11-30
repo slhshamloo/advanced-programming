@@ -1,0 +1,16 @@
+register successful!
+a user exists with this username
+register successful!
+login successful!
+calendar created successfully!
+calendar created successfully!
+invalid command!
+calendar opened successfully!
+task added successfully!
+there is another task with this title!
+task deleted successfully!
+task added successfully!
+task edited!
+there is no task with this title!
+invalid command!
+logout successful

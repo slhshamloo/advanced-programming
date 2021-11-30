@@ -1,0 +1,235 @@
+invalid command
+register successful
+register successful
+register successful
+incorrect password
+login successful
+new game started successfully between Pesar and kolah
+|S1|  |S2|S2|  |  |  |  |  |S1|
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |  |  |  |  |  |  |S2|
+|S2|  |  |S3|S3|S3|  |  |  |S2|
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S1|  |S3|S3|S3|  |  |  |  |S1|
+invalid command
+turn completed
+|S1|  |S2|S2|  |  |  |  |  |S1|
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |  |  |  |  |  |  |S2|
+|S2|  |  |S3|S3|S3|  |  |  |S2|
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S1|  |S3|S3|S3|  |  |  |  |S1|
+invalid command
+turn completed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+wrong coordination
+the rival's ship was damaged
+the rival's ship2 was destroyed
+the rival's ship was damaged
+the rival's ship2 was destroyed
+the rival's ship was damaged
+the rival's ship2 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship3 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship was damaged
+|D1|  |D2|D2|  |  |  |  |  |D1|
+|  |  |  |  |  |  |  |  |  |  |
+|D2|  |  |  |  |  |  |  |  |D2|
+|D2|  |  |D3|D3|D3|  |  |  |D2|
+|  |  |  |  |DX|  |  |  |  |  |
+|  |  |  |  |DX|  |  |  |  |  |
+|  |  |  |  |DX|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|D1|  |  |  |  |  |  |  |  |D1|
+the rival's ship4 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+wrong coordination
+the rival's ship3 was destroyed
+Pesar is winner
+logout successful
+login successful
+new game started successfully between pesar and kolah
+|S1|  |S2|S2|  |  |  |  |  |S1|
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |  |  |  |  |  |  |S2|
+|S2|  |  |S3|S3|S3|  |  |  |S2|
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S1|  |S3|S3|S3|  |  |  |  |S1|
+invalid command
+turn completed
+|S1|  |S2|S2|  |  |  |  |  |S1|
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |  |  |  |  |  |  |S2|
+|S2|  |  |S3|S3|S3|  |  |  |S2|
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S1|  |S3|S3|S3|  |  |  |  |S1|
+invalid command
+turn completed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+wrong coordination
+the rival's ship was damaged
+the rival's ship2 was destroyed
+the rival's ship was damaged
+the rival's ship2 was destroyed
+the rival's ship was damaged
+the rival's ship2 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship3 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship was damaged
+|D1|  |D2|D2|  |  |  |  |  |D1|
+|  |  |  |  |  |  |  |  |  |  |
+|D2|  |  |  |  |  |  |  |  |D2|
+|D2|  |  |D3|D3|D3|  |  |  |D2|
+|  |  |  |  |DX|  |  |  |  |  |
+|  |  |  |  |DX|  |  |  |  |  |
+|  |  |  |  |DX|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|D1|  |  |  |  |  |  |  |  |D1|
+the rival's ship4 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+wrong coordination
+the rival's ship3 was destroyed
+pesar is winner
+you must choose another player to start a game
+new game started successfully between pesar and Pesar
+off the board
+wrong coordination
+|S1|  |S2|S2|AA|  |  |  |  |S1|
+|  |  |AA|AA|AA|  |  |  |  |  |
+|S2|AA|AA|AA|AA|AA|AA|AA|AA|S2|
+|S2|AA|AA|S3|S3|S3|AA|AA|AA|S2|
+|AA|AA|AA|AA|S4|AA|AA|AA|AA|AA|
+|  |  |AA|AA|S4|  |  |  |  |  |
+|  |  |AA|AA|S4|  |  |  |  |  |
+|  |  |AA|AA|S4|  |  |  |  |  |
+|  |  |AA|AA|AA|  |  |  |  |  |
+|S1|  |S3|S3|S3|  |  |  |  |S1|
+turn completed
+|S1|  |S2|S2|AA|AA|  |  |  |S1|
+|  |  |AA|AA|AA|AA|  |  |  |  |
+|S2|  |AA|AA|AA|AA|  |  |  |S2|
+|S2|  |AA|S3|S3|S3|  |  |  |S2|
+|  |  |AA|AA|S4|AA|  |  |  |  |
+|  |  |AA|AA|S4|AA|  |  |  |  |
+|  |  |AA|AA|S4|AA|  |  |  |  |
+|  |  |AA|AA|S4|AA|  |  |  |  |
+|  |  |AA|AA|AA|AA|  |  |  |  |
+|S1|  |S3|S3|S3|AA|  |  |  |S1|
+turn completed
+the rival's antiaircraft destroyed your airplane
+1 pieces of rival's ships was damaged
+the bomb fell into sea
+turn completed
+|S1|  |S2|S2|AA|  |  |  |  |S1|
+|  |  |AA|AA|AA|XX|XX|XX|XX|XX|
+|S2|  |AA|AA|AA|XX|XX|XX|XX|D2|
+|S2|  |AA|S3|S3|S3|  |  |  |S2|
+|  |  |AA|AA|S4|  |  |  |  |  |
+|  |  |AA|AA|S4|  |  |  |  |  |
+|  |  |AA|AA|S4|  |  |  |  |  |
+|  |  |AA|AA|S4|  |  |  |  |  |
+|  |  |AA|AA|AA|  |  |  |  |XX|
+|S1|  |S3|S3|S3|  |  |  |  |S1|
+the rival's antiaircraft destroyed your airplane
+target not found
+the bomb fell into sea
+turn completed
+|S1|  |S2|S2|AA|  |  |  |  |S1|
+|  |  |XX|AA|AA|  |  |  |  |  |
+|S2|  |AA|AA|AA|  |XX|XX|  |S2|
+|S2|  |AA|S3|S3|S3|XX|XX|  |S2|
+|  |  |AA|AA|S4|  |XX|XX|  |  |
+|  |  |AA|AA|S4|  |XX|XX|  |  |
+|  |  |AA|AA|S4|  |XX|XX|  |  |
+|  |  |AA|AA|S4|  |  |  |  |  |
+|  |  |AA|AA|AA|  |  |  |  |  |
+|S1|  |S3|S3|S3|  |  |  |  |S1|
+the rival's antiaircraft destroyed your airplane
+the bomb fell into sea
+turn completed
+the rival's antiaircraft destroyed your airplane
+|S1|  |S2|S2|  |  |  |  |  |S1|
+|  |  |  |  |  |XX|XX|XX|XX|XX|
+|S2|  |  |  |  |XX|XX|XX|XX|D2|
+|S2|  |  |S3|S3|S3|  |  |  |S2|
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |S4|  |  |  |  |  |
+|  |  |  |  |S4|  |  |XX|  |  |
+|  |  |  |  |  |  |  |  |  |XX|
+|S1|  |S3|S3|S3|  |  |  |  |S1|
+this place has already destroyed
+the bomb fell into sea
+turn completed
+|S1|  |S2|S2|  |  |  |  |  |S1|
+|  |  |XX|  |  |  |  |  |  |  |
+|S2|  |  |  |  |  |XX|XX|  |S2|
+|S2|  |  |S3|S3|S3|XX|XX|  |S2|
+|  |  |  |  |S4|  |XX|XX|  |  |
+|  |  |  |  |S4|  |XX|XX|  |  |
+|  |  |  |  |S4|  |XX|XX|  |  |
+|  |  |  |  |S4|  |  |XX|  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S1|  |S3|S3|S3|  |  |  |  |S1|
+the rival's ship1 was destroyed
+the rival's ship was damaged
+the rival's ship2 was destroyed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship3 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship3 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship4 was destroyed
+the rival's ship was damaged
+the rival's ship2 was destroyed
+the rival's ship2 was destroyed
+pesar is winner
+pesar 6 2 0 0
+Pesar 3 1 0 1
+kolah 0 0 0 2
+100
+logout successful
+incorrect password
+login successful
+50
+logout successful
+program ended

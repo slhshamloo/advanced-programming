@@ -1,0 +1,56 @@
+register xyz hjk
+register ali momeni
+login xyz hjk
+shop
+buy invisible 2
+show-amount
+back
+logout
+login ali momeni
+shop
+buy scanner 4
+show-amount
+back
+logout
+login xyz hjk
+new_game ali
+put S1 1,1 -v
+put S1 2,2 -h
+put S2 1,5 -v
+put S2 1,8 -h
+put S1 1,9 -h
+put S1 1,10 -v
+put S2 2,10 -h
+put S3 3,3 -h
+put S3 7,10 -h
+put S4 4,5 -v
+invisible 1,1
+invisible 2,2
+show-my-board
+finish-arranging
+put S1 10,1 -v
+put S1 2,2 -h
+put S2 1,5 -v
+put S2 1,8 -h
+put S1 1,9 -h
+put S1 1,10 -v
+put S3 3,3 -h
+put S2 2,10 -h
+put S3 7,10 -h
+put S4 4,5 -v
+show-my-board
+finish-arranging
+bomb 2,1
+scanner 0,0
+scanner 1,1
+scanner 4,4
+show-turn
+show-my-board
+show-rival-board
+bomb 10,10
+forfeit
+help
+scoreboard
+help
+logout
+exit

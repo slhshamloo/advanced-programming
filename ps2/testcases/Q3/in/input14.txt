@@ -1,0 +1,37 @@
+register @p @p
+Register @p @p
+Register ap @p
+Register ap ap
+Register ap apAP20
+Login @p @p
+Login ap ap2020
+Login ap apAP20
+Create New Calendar cal!
+Enable Calendar        100
+Disable Calendar 100
+Remove Calendar 1
+no
+Edit Calendar 1 cal@#
+Share Calendar 1 user1 us3r2
+Share Calendar 1 user1 us3r2@@@
+logout
+Remove Calendar 1
+no
+Logout
+Login ap apAP20
+   Open       Calendar 1
+Add Task class1     10_30    11_00   2010_10_05     2030_10_05   D F
+Add Task class2     10_30    11_00   2010_10_05     2030_10_05   M F
+Add Task class3     10_30    11_00   2010_10_05     2030_10_05   W F
+Back  
+Show             2009_10_05     
+Show             2010_10_05     
+Show             2010_10_06     
+Show             2010_10_07
+Show             2010_10_12
+Show             2010_10_19     
+Show             2010_11_19     
+Show             2011_05_05     
+Show             2035_10_19     
+Logout
+Exit

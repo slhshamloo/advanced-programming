@@ -1,0 +1,70 @@
+register successful
+register successful
+login successful
+30
+new game started successfully between xyz and ali
+|S1|  |  |  |  |  |  |  |  |  |
+|  |S1|  |  |  |  |  |  |  |  |
+|  |  |S3|S3|S3|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|  |  |  |S4|  |  |  |  |  |  |
+|S2|S2|  |S4|  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|S2|S2|  |  |  |S3|S3|S3|  |
+turn completed
+|  |  |  |  |  |  |  |  |  |S1|
+|  |S1|  |  |  |  |  |  |  |  |
+|  |  |S3|S3|S3|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|  |  |  |S4|  |  |  |  |  |  |
+|S2|S2|  |S4|  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|S2|S2|  |  |  |S3|S3|S3|  |
+turn completed
+3 pieces of rival's ships was damaged
+the rival's ship1 was destroyed
+xyz's turn
+|S1|  |  |  |  |  |  |  |  |  |
+|  |S1|  |  |  |  |  |  |  |  |
+|  |  |S3|S3|S3|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|  |  |  |S4|  |  |  |  |  |  |
+|S2|S2|  |S4|  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|S2|S2|  |  |  |S3|S3|S3|  |
+|  |  |  |  |  |  |  |  |  |D1|
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|DX|XX|XX|DX|XX|  |  |  |  |  |
+|XX|XX|XX|DX|XX|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+the bomb fell into sea
+turn completed
+ali is forfeited
+xyz is winner
+new_game [username]
+scoreboard
+list_users
+shop
+help
+logout
+xyz 2 1 0 0
+ali -1 0 0 1
+new_game [username]
+scoreboard
+list_users
+shop
+help
+logout
+logout successful
+program ended

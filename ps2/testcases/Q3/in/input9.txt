@@ -1,0 +1,49 @@
+Register Matin Shoja1
+Register DA Shoja1
+Register Holidays Shoja1
+Login Matin Shoja
+Login Matin Shoja1
+Logout
+Login DA Shoja1
+Logout
+Login Holidays Shoja1
+Logout
+Login Matin Shoja1
+Open Calendar 1
+Add Task CheckTele 00_00 00_30 2021_02_13 100 D F
+Add Task Sleep 00_30 00_45 2021_02_13 100 D F
+Add Task MLClass 09_00 10_30 2021_02_13 100 D F
+Add Task WakeUp 08_00 08_15 2021_02_13 100 D F
+Back
+Logout
+Login DA Shoja1
+Open Calendar 2
+Add Task DAClass 13_30 15_00 2021_02_14 2021_06_13 W T
+link1
+Add Task TACLASS 16_30 17_30 2021_02_24 14 W T
+link2
+Back
+Share Calendar 2 Matin
+Logout
+Login Holidays Shoja1
+Open Calendar 3
+Add Event Revol 2021_02_14 12 M F
+Back
+Share Calendar 3 Matin
+Logout
+Login Matin Shoja1
+Show Enabled Calendars
+Enable Calendar 2
+Enable Calendar 3
+Show 2020_02_11
+Show 2021_02_13
+Show 2021_02_14
+Show 2021_04_14
+Show 2021_06_13
+Show 2021_06_20
+Show 2021_06_16
+Show 2021_06_23
+Show 2022_02_14
+Show 2022_03_14
+Logout
+Exit

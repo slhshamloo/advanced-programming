@@ -1,0 +1,76 @@
+register successful
+register successful
+login successful
+50
+new game started successfully between xyz and ali
+wrong coordination
+there is no ship on this place on the board
+this place has already made invisible
+you don't have enough invisible
+|I1|  |  |  |  |  |  |  |  |  |
+|  |I1|  |  |  |  |  |  |  |  |
+|  |  |S3|S3|S3|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|  |  |  |S4|  |  |  |  |  |  |
+|S2|S2|  |S4|  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|S2|S2|  |  |  |S3|S3|S3|  |
+turn completed
+|  |  |  |  |  |  |  |  |  |S1|
+|  |S1|  |  |  |  |  |  |  |  |
+|  |  |S3|S3|S3|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|  |  |  |S4|  |  |  |  |  |  |
+|S2|S2|  |S4|  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|S2|S2|  |  |  |S3|S3|S3|  |
+turn completed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+xyz's turn
+|I1|  |  |  |  |  |  |  |  |  |
+|  |I1|  |  |  |  |  |  |  |  |
+|  |  |S3|S3|S3|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|S2|  |  |S4|  |  |  |  |  |  |
+|  |  |  |S4|  |  |  |  |  |  |
+|S2|S2|  |S4|  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|S2|S2|  |  |  |S3|S3|S3|  |
+|  |  |  |  |  |  |  |  |  |D1|
+|  |D1|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+the bomb fell into sea
+turn completed
+the bomb fell into sea
+turn completed
+xyz is forfeited
+ali is winner
+new_game [username]
+scoreboard
+list_users
+shop
+help
+logout
+ali 2 1 0 0
+xyz -1 0 0 1
+new_game [username]
+scoreboard
+list_users
+shop
+help
+logout
+logout successful
+program ended

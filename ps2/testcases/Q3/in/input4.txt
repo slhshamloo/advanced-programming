@@ -1,0 +1,23 @@
+Rgister AP        Ap2021     
+Register       AP         aP2021
+     Rgister    Ap2    AAAAAAA20
+Login AP     aP2021       
+   Open       Calendar 1
+Add Task class1     10_30    11_00   2010_10_05     2030_10_05   D F
+Add Task class2     09_30    11_00   2010_10_05     2030_10_05   D F
+Add Task class3     10_30    12_00   2010_10_05     2030_10_05   D F
+Add Task class1     10_30    11_00   2010_10_05     2030_10_05   D F
+Add Task class5     10_30    11_00   2010_10_05     2030_10_05   D T
+https://docs.google.com/spreadsheets/d/e/2PACX-1vT6Oq9bDWncPm3aNKvf7VpUBBwNyW8I1MpYweNdkFVPfuPPt0aaRCuhUuuj3iEfGTw41kR0YJ7GYtD-/pubhtml?gid=1302651423&single=true
+Add Event E1            2010_10_05     2030_10_05   D           T
+Add Event E2            2010_10_05     2030_10_05   D           T
+Show tasks
+Show Events
+Delete Task class5
+Edit Task class1 title                           class10                      
+                  Show tasks
+       Delete Event E2
+Back     
+Show             2015_10_05     
+Logout
+Exit

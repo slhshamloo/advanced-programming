@@ -1,0 +1,33 @@
+create confectionary
+add customer id 1 name a
+add customer id 2 name b
+add customer id 1 name a
+add customer id 3 name c
+increase balance customer 4 amount 2000
+increase balance customer 1 amount 100000
+increase balance customer 2 amount 100000
+increase balance customer 3 amount 100000
+add warehouse material a amount 100
+add warehouse material a amount 100
+add warehouse material b amount 100
+add warehouse material c amount 100
+add sweet name a price 10 materials: a 1, b 1, c 1
+add sweet name b price 10 materials: a 1, b 1, c 1
+add sweet name c price 10 materials: a 1, b 1, c 1
+increase sweet a amount 10
+increase sweet b amount 10
+increase sweet c amount 10
+add discount code 1 price 10
+add discount code code 1 to customer id 1
+sell sweet a amount 2 to customer 1
+sell sweet b amount 2 to customer 2
+sell sweet c amount 2 to customer 3
+accept transaction 1
+accept transaction 2
+accept transaction 3
+print transactions list
+print income
+increase sweet a amount 100
+increase sweet b amount 100
+increase sweet c amount 100
+end

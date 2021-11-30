@@ -1,0 +1,57 @@
+invalid command!
+invalid username!
+invalid password!
+password is weak!
+register successful!
+invalid username!
+password is wrong!
+login successful!
+calendar created successfully!
+invalid title!
+there is no calendar with this ID!
+there is no calendar with this ID!
+do you want to delete this calendar?
+OK!
+invalid title!
+no user exists with this username!
+invalid username!
+invalid command!
+do you want to delete this calendar?
+OK!
+logout successful
+login successful!
+calendar opened successfully!
+task added successfully!
+task added successfully!
+task added successfully!
+events on 2009_10_05:
+tasks on 2009_10_05:
+events on 2010_10_05:
+tasks on 2010_10_05:
+Task: class1 F 10_30 11_00
+Task: class2 F 10_30 11_00
+Task: class3 F 10_30 11_00
+events on 2010_10_06:
+tasks on 2010_10_06:
+Task: class1 F 10_30 11_00
+events on 2010_10_07:
+tasks on 2010_10_07:
+Task: class1 F 10_30 11_00
+events on 2010_10_12:
+tasks on 2010_10_12:
+Task: class1 F 10_30 11_00
+Task: class3 F 10_30 11_00
+events on 2010_10_19:
+tasks on 2010_10_19:
+Task: class1 F 10_30 11_00
+Task: class3 F 10_30 11_00
+events on 2010_11_19:
+tasks on 2010_11_19:
+Task: class1 F 10_30 11_00
+events on 2011_05_05:
+tasks on 2011_05_05:
+Task: class1 F 10_30 11_00
+Task: class2 F 10_30 11_00
+events on 2035_10_19:
+tasks on 2035_10_19:
+logout successful

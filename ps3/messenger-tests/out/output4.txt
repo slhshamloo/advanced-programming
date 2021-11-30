@@ -1,0 +1,35 @@
+you must login to access this feature
+success
+user not found
+incorrect password
+success
+success
+success
+success
+success
+the port is already set
+success
+success
+success
+success
+could not send message
+success
+success
+4
+bean -> This is it
+bean -> It just works
+bean -> I'm calling thou
+bean -> Are you there?
+1
+success
+success
+success
+success
+success
+bean -> This is it
+bean -> It just works
+bean -> I'm calling thou
+bean -> Are you there?
+bean -> Okay I'm back
+bean -> Are you still there?
+bean -> Ight imma head out, bye!

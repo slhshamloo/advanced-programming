@@ -1,0 +1,13 @@
+customer with this id already exists
+customer not found
+warehouse having this material already exists
+transaction 1 successfully created
+transaction 2 successfully created
+transaction 3 successfully created
+transaction 1: 1 20 1 10
+transaction 2: 2 20 -1 20
+transaction 3: 3 20 -1 20
+50
+insufficient material(s): a b c 
+insufficient material(s): a b c 
+insufficient material(s): a b c

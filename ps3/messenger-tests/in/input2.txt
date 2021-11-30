@@ -1,0 +1,14 @@
+portconfig --close --port 123.456.789.10
+userconfig --create --username bean --password qwerty123trewq
+userconfig --login --username english --password qwerty123trewq
+userconfig --login --username bean --password 12345
+userconfig --login --username bean --password qwerty123trewq
+portconfig --listen --port 17091
+send --message "Hello, There" --port 17091 --host 127.0.0.1
+portconfig --listen --port 17097
+portconfig --listen --port 17097 --rebind
+send --message "General Kenobi!" --port 17097 --host 127.12.0.1
+send --message "General Kenobi!" --port 17097 --host 127.0.0.1
+portconfig --close --port 17097
+show --count --messages
+show --messages

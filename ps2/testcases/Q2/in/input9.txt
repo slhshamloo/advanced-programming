@@ -1,0 +1,95 @@
+register ali@ 123
+register ali 123
+register bob #$%
+register bob 123
+login ali @#$%
+login ali 234
+login ali 123
+new_game bob
+put S1 1,1 -h
+put S1 2,2 -v
+put S1 3,3 -h
+put  S1 3,3 -v
+put S1 4,3 -h
+put S5 5,5 -t
+put S2 2,1 -h
+put S2 1,1 -v
+put S2 3,2 -h
+put S2 1,2 -v
+put S2 7,7 -h
+put S3 4,1 -h
+put S3 2,3 -v
+finish-arranging
+put S4 5,2 -v
+show-my-board
+finish-arranging
+show-my-board
+showmyboard
+put S0 0,0 -y
+put S4 1,1 -v
+put S3 2,1 -v
+put S3 3,1 -v
+put S2 4,1 -v
+put S2 5,1 -v
+show-rival-board
+show-my-board
+put S2 10,1 -h
+put S2 6,1 -v
+put S1 7,1 -v
+put S1 7,1 -h
+put 8,1 -h
+put S1 8,1 -h
+put S1 9,1 -v
+put S1 10,1 -v
+show-my-board
+finish-arranging
+show-turn
+show-rival-board
+bomb 1,1
+bomb 2,1
+bomb 10,1
+show-rival-board
+bomb 5,5
+bomb 1,1
+show-my-board
+show-turn
+show-rival-board
+bomb 0,2
+bomb 10,10
+bomb 1,2
+bomb 1,3
+bomb 1,4
+show-rival-board
+bomb 2,1
+bomb 2,2
+bomb 2,3
+show-my-board
+bomb 5,5
+bomb 10,10
+show-my-board
+bomb 9,9
+bomb 3,1
+bomb 3,2
+bomb 3,3
+bomb 4,1
+bomb 4,2
+bomb 5,1
+bomb 5,2
+bomb 6,1
+bomb 6,2
+bomb 7,1
+bomb 8,1
+bomb 9,1
+bomb 10,1
+bomb 7,7
+scoreboard
+shop
+show-amount
+back
+logout
+login bob 123
+shop
+show-amount
+back
+logout
+exit

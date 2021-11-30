@@ -1,0 +1,25 @@
+invalid command!
+invalid command!
+invalid command!
+invalid command!
+invalid command!
+register successful!
+login successful!
+calendar created successfully!
+invalid command!
+invalid command!
+invalid command!
+invalid command!
+invalid command!
+invalid command!
+calendar opened successfully!
+invalid command!
+invalid command!
+invalid command!
+invalid command!
+task added successfully!
+invalid command!
+there is another task with this title!
+invalid command!
+invalid command!
+logout successful

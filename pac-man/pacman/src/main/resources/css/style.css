@@ -1,0 +1,96 @@
+@font-face {
+    font-family: Emulogic;
+    src: url('../font/emulogic.ttf');
+}
+
+@font-face {
+    font-family: Minecraft;
+    src: url('../font/Minecraft.ttf');
+}
+
+@font-face {
+    font-family: Pacfont;
+    src: url('../font/PAC-FONT.TTF');
+}
+
+.root {
+    -fx-background-color: black;
+    -fx-font-family: Emulogic;
+    -fx-font-size: 18px;
+}
+
+.label {
+    -fx-text-fill: white;
+}
+
+.title {
+    -fx-font-family: Pacfont;
+    -fx-font-size: 60px;
+    -fx-fill: yellow;
+}
+
+.text-field {
+    -fx-font-family: Minecraft;
+    -fx-font-size: 24px;
+}
+
+.message {
+    -fx-font-family: Minecraft;
+    -fx-font-size: 30px;
+}
+
+.check-box {
+    -fx-text-fill: white;
+}
+
+.button {
+    -fx-background-color: transparent;
+    -fx-padding: 20;
+    -fx-text-fill: white;
+    -fx-border-color: white;
+    -fx-border-width: 5;
+    -fx-border-style: dashed;
+}
+
+.button-violet {
+    -fx-border-color: darkviolet;
+    -fx-text-fill: darkviolet;
+}
+
+.button-indigo {
+    -fx-border-color: mediumpurple;
+    -fx-text-fill: mediumpurple;
+}
+
+.button-blue {
+    -fx-border-color: blue;
+    -fx-text-fill: blue;
+}
+
+.button-green {
+    -fx-border-color: lime;
+    -fx-text-fill: lime;
+}
+
+.button-yellow {
+    -fx-border-color: yellow;
+    -fx-text-fill: yellow;
+}
+
+.button-orange {
+    -fx-border-color: orange;
+    -fx-text-fill: orange;
+}
+
+.button-red {
+    -fx-border-color: red;
+    -fx-text-fill: red;
+}
+
+.button:hover {
+    -fx-border-style: solid;
+}
+
+.text-input, .text-input:focused {
+    -fx-prompt-text-fill: derive(-fx-control-inner-background, -30%);
+}

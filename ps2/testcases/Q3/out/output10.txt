@@ -1,0 +1,56 @@
+register successful!
+register successful!
+register successful!
+register successful!
+register successful!
+register successful!
+register successful!
+invalid command!
+user1
+user2
+user3
+user4
+user5
+user6
+user7
+password is wrong!
+login successful!
+calendar created successfully!
+calendar created successfully!
+calendar created successfully!
+calendar created successfully!
+calendar shared!
+calendar opened successfully!
+task added successfully!
+task added successfully!
+logout successful
+login successful!
+calendar created successfully!
+events on 2015_10_05:
+tasks on 2015_10_05:
+calendar enabled successfully!
+events on 2015_10_05:
+tasks on 2015_10_05:
+Task: class2 F 09_30 11_00
+Task: class1 F 10_30 11_00
+calendar disabled successfully!
+events on 2015_10_05:
+tasks on 2015_10_05:
+logout successful
+login successful!
+logout successful
+login successful!
+events on 2015_10_05:
+tasks on 2015_10_05:
+calendar enabled successfully!
+events on 2015_10_05:
+tasks on 2015_10_05:
+Task: class2 F 09_30 11_00
+Task: class1 F 10_30 11_00
+calendar opened successfully!
+you don't have access to do this!
+you don't have access to do this!
+you don't have access to delete this calendar!
+calendar removed!
+you have no calendar with this ID!
+logout successful

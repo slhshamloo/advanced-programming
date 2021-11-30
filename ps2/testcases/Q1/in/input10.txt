@@ -1,0 +1,30 @@
+invalid command
+create confectionary
+add customer id 80 name amir
+add customer id 100 name amir hossein
+increase balance customer 80 amount 30000
+increase balance customer 100 amount 200000
+add warehouse material suger amount 1000000
+add warehouse material suger amount 500000
+add warehouse material khame amount 500000
+add sweet name rolet price 5000 materials: suger 100, khame 100, coconut 1200
+add sweet name rolet vip price 10000 materials: suger 100, khame 200
+increase sweet rolet amount 50
+increase sweet rolet vip amount 50
+add discount code 500 price 100
+add discount code 5000 price 30000
+add discount code 50000 price 10000
+add discount code 500000 price 100000
+add discount code 5000000 price 1000000
+add discount code code 500 to customer id 80000000
+add discount code code 50000 to customer id 100
+sell sweet rolet amount 1 to customer 80
+sell sweet rolet vip amount 5 to customer 100
+print transactions list
+print income
+accept transaction 1
+asdf sd dfg dg erger g r rer gr g rrg r g rgr rg ergreg 
+accept transaction 2
+print income
+print transactions list
+end

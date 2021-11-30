@@ -1,0 +1,5 @@
+userconfig --create --username english --password 123s2
+userconfig --login --username english --password 123s2
+portconfig --listen --port 17091
+send --message "Hello, There" --port 17091 --host 127.0.0.1
+show --messages

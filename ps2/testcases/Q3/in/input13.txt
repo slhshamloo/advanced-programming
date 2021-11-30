@@ -1,0 +1,26 @@
+   Open       Calendar 1
+Add Task class1     10_30    11_00   2010_10_05     2030_10_05   D F
+Show tasks
+Show Events
+Delete Task class5
+Register AP        Ap2021     
+Login AP     Ap2021       
+Login AP     Ap2021       
+Register AP        Ap2021     
+
+Register       AP         aP2021
+Register       AP10         aP2021
+     Rgister    Ap2    AAAAAAA20
+   Open       Calendar 1
+Register       AP         aP2021
+Register       AP10         aP2021
+     Rgister    Ap2    AAAAAAA20
+Logout
+Add Task class1     10_30    11_00   2010_10_05     2030_10_05   D F
+Exit
+Add Task class1     10_30    11_00   2010_10_05     2030_10_05   D F
+Back
+Exit
+Add Task class1     10_30    11_00   2010_10_05     2030_10_05   D F
+Logout
+Exit     

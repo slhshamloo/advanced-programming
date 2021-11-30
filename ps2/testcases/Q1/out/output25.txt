@@ -1,0 +1,33 @@
+customer with this id already exists
+invalid command
+customer not found
+invalid command
+warehouse having this material already exists
+not found warehouse(s): poode shekar poodr khame
+insufficient material(s): poodr e shekar poodr e ghahve poodr e khame i
+sweet not found
+discount with this code already exists
+discount code not found
+discount code not found
+customer not found
+invalid command
+insufficient sweet
+customer not found
+transaction 1 successfully created
+no waiting transaction with this id was found
+transaction 1: 21 10000 1234 0
+0
+insufficient sweet
+insufficient material(s): poodr e shekar poodr e ghahve poodr e khame i
+transaction 2 successfully created
+transaction 1: 21 10000 1234 0
+transaction 2: 1 10000 234 5000
+5000
+transaction 3 successfully created
+insufficient sweet
+transaction 4 successfully created
+transaction 1: 21 10000 1234 0
+transaction 2: 1 10000 234 5000
+transaction 3: 2 2000 234 0
+transaction 4: 2 6000 -1 6000
+11000

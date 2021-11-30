@@ -1,0 +1,6 @@
+transaction 1 successfully created
+transaction 2 successfully created
+0
+75000
+transaction 1: 80 25000 -1 25000
+transaction 2: 100 50000 -1 50000

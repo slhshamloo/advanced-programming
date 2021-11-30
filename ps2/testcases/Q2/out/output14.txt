@@ -1,0 +1,83 @@
+register successful
+username format is invalid
+invalid command
+invalid command
+invalid command
+register successful
+invalid command
+login successful
+invalid command
+invalid command
+10
+logout successful
+login successful
+new game started successfully between sin and ali
+wrong coordination
+invalid ship number
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|  |Mm|  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S4|S4|S4|S4|  |  |  |  |  |  |
+turn completed
+|  |AA|AA|AA|  |  |  |  |  |  |
+|S1|AA|AA|AA|  |  |  |  |  |  |
+|S1|AA|S1|AA|  |  |  |  |  |  |
+|S1|AA|AA|AA|  |  |  |  |  |  |
+|S2|S2|AA|AA|  |  |  |  |  |  |
+|S2|S2|AA|AA|  |  |  |  |  |  |
+|S2|S2|AA|AA|  |  |  |  |  |  |
+|S3|S3|S3|AA|  |  |  |  |  |  |
+|S3|S3|S3|AA|  |  |  |  |  |  |
+|S4|S4|S4|S4|  |  |  |  |  |  |
+turn completed
+the bomb fell into sea
+turn completed
+target not found
+|  |AA|AA|AA|  |  |  |  |  |  |
+|S1|AA|AA|AA|  |  |  |  |  |  |
+|S1|AA|D1|AA|  |  |  |  |  |  |
+|S1|AA|AA|AA|  |  |  |  |  |  |
+|S2|S2|AA|AA|  |  |  |  |  |  |
+|S2|S2|AA|AA|  |  |  |  |  |  |
+|S2|S2|AA|AA|  |  |  |  |  |  |
+|S3|S3|S3|AA|  |  |  |  |  |  |
+|S3|S3|S3|AA|  |  |  |  |  |  |
+|S4|S4|S4|S4|  |  |  |  |  |XX|
+|  |  |  |  |  |  |  |  |  |  |
+|  |XX|XX|XX|XX|XX|  |  |  |  |
+|  |XX|MX|XX|XX|XX|  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+the bomb fell into sea
+turn completed
+|S1|XX|  |  |  |  |  |  |  |  |
+|S1|XX|XX|XX|XX|XX|  |  |  |  |
+|S1|XX|MX|XX|XX|XX|  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+|S4|S4|S4|S4|  |  |  |  |  |  |
+sin is forfeited
+ali is winner
+ali 2 1 0 0
+sin -1 0 0 1
+-2
+logout successful
+login successful
+9
+logout successful
+program ended

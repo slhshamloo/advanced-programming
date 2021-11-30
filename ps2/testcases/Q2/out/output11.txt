@@ -1,0 +1,206 @@
+register [username] [password]
+login [username] [password]
+remove [username] [password]
+list_users
+help
+exit
+register successful
+register successful
+register successful
+login successful
+21
+123 0 0 0 0
+___ 0 0 0 0
+jahan 0 0 0 0
+new game started successfully between 123 and ___
+you don't have enough antiaircraft
+wrong coordination
+invalid ship number
+invalid direction
+off the board
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|S1|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|  |S4|S4|S4|S4|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |S2|S2|  |  |  |
+|S2|S2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |S3|S3|S3|  |
+|  |  |S3|S3|S3|  |  |  |  |  |
+turn completed
+collision with the other ship or mine on the board
+collision with the other ship or mine on the board
+|S2|  |  |  |  |  |  |  |  |S2|
+|S2|  |  |  |  |  |  |  |  |S2|
+|  |  |S1|  |  |  |  |  |  |  |
+|  |  |  |S1|  |  |  |  |  |S4|
+|  |  |  |  |S1|  |  |  |  |S4|
+|  |  |  |  |  |S1|  |  |  |S4|
+|S2|S2|  |  |  |  |  |  |  |S4|
+|  |  |  |  |  |S3|S3|S3|  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+turn completed
+off the board
+4 pieces of rival's ships was damaged
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |XX|DX|
+|  |  |  |  |  |  |  |  |XX|XX|
+|  |  |  |  |  |  |  |  |XX|DX|
+|  |  |  |  |  |  |  |  |XX|DX|
+|  |  |  |  |  |  |  |  |XX|DX|
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+off the board
+wrong coordination
+target not found
+you don't have airplane
+invalid command
+invalid direction
+the bomb fell into sea
+turn completed
+invalid command
+wrong coordination
+invalid command
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship4 was destroyed
+the rival's ship was damaged
+the rival's ship2 was destroyed
+the rival's ship was damaged
+the rival's ship2 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship3 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship3 was destroyed
+the rival's ship was damaged
+wrong coordination
+the rival's ship2 was destroyed
+___ is winner
+___ 3 1 0 0
+jahan 0 0 0 0
+123 0 0 0 1
+25
+5
+logout successful
+login successful
+logout successful
+login successful
+new game started successfully between 123 and jahan
+wrong coordination
+invalid ship number
+invalid direction
+off the board
+there is no ship on this place on the board
+|S1|  |  |  |  |  |  |  |  |  |
+|S1|S1|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S1|  |  |  |  |  |  |  |  |  |
+|  |S4|S4|S4|S4|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |S2|S2|  |  |  |
+|S2|I2|  |  |  |  |  |  |  |  |
+|S2|S2|  |  |  |  |S3|S3|S3|  |
+|  |  |S3|S3|S3|  |  |  |  |  |
+turn completed
+collision with the other ship or mine on the board
+collision with the other ship or mine on the board
+|S2|  |  |  |  |  |  |  |  |S2|
+|S2|  |  |  |  |  |  |  |  |S2|
+|  |  |S1|  |  |  |  |  |  |  |
+|  |  |  |S1|  |  |  |  |  |S4|
+|  |  |  |  |S1|  |  |  |  |S4|
+|  |  |  |  |  |S1|  |  |  |S4|
+|S2|S2|  |  |  |  |  |  |  |S4|
+|  |  |  |  |  |S3|S3|S3|  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|S3|S3|S3|  |  |  |  |  |  |  |
+turn completed
+off the board
+you don't have airplane
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+you don't have airplane
+you don't have airplane
+invalid command
+invalid direction
+the bomb fell into sea
+turn completed
+invalid command
+wrong coordination
+invalid command
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship1 was destroyed
+the rival's ship was damaged
+|  |  |  |
+|SX|  |  |
+|SX|SX|  |
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship4 was destroyed
+the rival's ship was damaged
+the rival's ship2 was destroyed
+the rival's ship was damaged
+the bomb fell into sea
+turn completed
+|D1|  |  |  |  |  |  |  |  |  |
+|D1|D1|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|D1|  |  |  |  |  |  |  |  |  |
+|  |D4|D4|D4|D4|  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |S2|S2|  |  |  |
+|D2|D2|XX|  |  |  |  |  |  |  |
+|D2|S2|  |  |  |  |S3|S3|S3|  |
+|  |  |S3|S3|S3|  |  |  |  |  |
+the rival's ship was damaged
+the bomb fell into sea
+turn completed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship3 was destroyed
+the rival's ship was damaged
+the rival's ship was damaged
+the rival's ship3 was destroyed
+the rival's ship was damaged
+wrong coordination
+the rival's ship2 was destroyed
+the rival's ship2 was destroyed
+jahan is winner
+___ 3 1 0 0
+jahan 3 1 0 0
+123 0 0 0 2
+123
+___
+jahan
+6
+logout successful
+no user exists with this username
+removed jahan successfully
+login successful
+___ 3 1 0 0
+123 0 0 0 2
+logout successful
+123
+___
+program ended

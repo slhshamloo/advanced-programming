@@ -1,0 +1,24 @@
+create confectionary
+add customer id 80 name amir
+add customer id 100 name amir hossein
+increase balance customer 80 amount 500000
+increase balance customer 100 amount 400000
+add warehouse material suger amount 100000
+add warehouse material khame amount 100000
+add sweet name rolet price 5000 materials: suger 100, khame 100
+add sweet name rolet vip price 10000 materials: suger 100, khame 200
+increase sweet rolet amount 50
+increase sweet rolet vip amount 50
+sell sweet rolet amount 40 to customer 80
+sell sweet rolet amount 20 to customer 80
+sell sweet rolet vip amount 100 to customer 100
+sell sweet rolet vipp amount 100 to customer 100
+sell sweet rolet vip amount 10 to customer 10000
+sell sweet rolet vip amount 50 to customer 100
+sell sweet rolet vip amount 1 to customer 80
+print income
+print transactions list
+accept transaction 1
+accept transaction 2
+print income
+end

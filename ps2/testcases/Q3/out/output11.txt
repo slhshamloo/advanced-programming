@@ -1,0 +1,20 @@
+invalid command!
+register successful!
+register successful!
+login successful!
+calendar created successfully!
+calendar created successfully!
+invalid command!
+calendar opened successfully!
+task added successfully!
+there is another task with this title!
+calendar shared!
+logout successful
+a user exists with this username
+login successful!
+calendar created successfully!
+calendar opened successfully!
+you don't have access to do this!
+you don't have access to do this!
+you don't have access to do this!
+logout successful
